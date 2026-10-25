@@ -1,0 +1,1015 @@
+{
+  "generated_at": "2026-10-25",
+  "platforms": [
+    {
+      "name": "OpenRouter",
+      "url": "https://openrouter.ai",
+      "logo": "https://icons.duckduckgo.com/ip3/openrouter.ai.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 400,
+      "featured_models": [
+        "GPT-5",
+        "Claude Sonnet",
+        "Gemini Pro",
+        "DeepSeek V3"
+      ],
+      "rate_limits": "الموديلات المجانية: 20 طلب/دقيقة، 50 طلب/يوم",
+      "signup_url": "https://openrouter.ai",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "مجمّع: مفتاح واحد لمئات الموديلات مع بدل مجاني يومي"
+    },
+    {
+      "name": "Google AI Studio",
+      "url": "https://aistudio.google.com",
+      "logo": "https://icons.duckduckgo.com/ip3/aistudio.google.com.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 40,
+      "featured_models": [
+        "Gemini 2.5 Pro",
+        "Gemini 2.5 Flash"
+      ],
+      "rate_limits": "مجاني: 10 طلبات/دقيقة و250 طلب/يوم (Pro)",
+      "signup_url": "https://aistudio.google.com",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "خطة مجانية سخية بمفتاح API وسياق ضخم"
+    },
+    {
+      "name": "Groq",
+      "url": "https://console.groq.com",
+      "logo": "https://icons.duckduckgo.com/ip3/groq.com.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 15,
+      "featured_models": [
+        "Llama 4 Scout",
+        "Llama 4 Maverick",
+        "Qwen3-32B"
+      ],
+      "rate_limits": "حوالي 30 طلب/دقيقة على الخطة المجانية",
+      "signup_url": "https://console.groq.com",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "أسرع استدلال في السوق مع خطة مجانية للتجربة"
+    },
+    {
+      "name": "GitHub Models",
+      "url": "https://github.com/marketplace/models",
+      "logo": "https://icons.duckduckgo.com/ip3/github.com.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 25,
+      "featured_models": [
+        "GPT-5 mini",
+        "Llama 4",
+        "Mistral Large",
+        "Phi-4"
+      ],
+      "rate_limits": "مجاني بحساب GitHub: 8 آلاف توكن إدخال / 4 آلاف إخراج",
+      "signup_url": "https://github.com/marketplace/models",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "تجربة مجانية لكل الموديلات بـ PAT بتاع GitHub"
+    },
+    {
+      "name": "Mistral",
+      "url": "https://console.mistral.ai",
+      "logo": "https://icons.duckduckgo.com/ip3/mistral.ai.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 20,
+      "featured_models": [
+        "Mistral Large 3",
+        "Devstral",
+        "Codestral"
+      ],
+      "rate_limits": "خطة تجريبية مجانية: طلب/ثانية و500 ألف توكن/دقيقة",
+      "signup_url": "https://console.mistral.ai",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "الخطة المجانية تتطلب تأكيد رقم الهاتف"
+    },
+    {
+      "name": "Cerebras",
+      "url": "https://cloud.cerebras.ai",
+      "logo": "https://icons.duckduckgo.com/ip3/cerebras.ai.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 8,
+      "featured_models": [
+        "Llama 4 Maverick",
+        "Qwen3 235B",
+        "GPT-OSS-120B"
+      ],
+      "rate_limits": "حوالي 30 طلب/يوم مجاناً (حسب الموديل)",
+      "signup_url": "https://cloud.cerebras.ai",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "سرعة خارقة (+2000 توكن/ثانية) مع حصة يومية مجانية"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/inference-providers",
+      "logo": "https://icons.duckduckgo.com/ip3/huggingface.co.ico",
+      "free_tier": true,
+      "welcome_credits": 0.1,
+      "currency": "USD",
+      "openai_compatible": true,
+      "models_count": 100,
+      "featured_models": [
+        "أي موديل مفتوح مشهور",
+        "Serverless + Dedicated"
+      ],
+      "rate_limits": "رصيد شهري مجاني صغير للاستدلال",
+      "signup_url": "https://huggingface.co/join",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "مفتاح واحد لعشرات المزودين برصيد شهري مجاني"
+    },
+    {
+      "name": "Together AI",
+      "url": "https://api.together.ai",
+      "logo": "https://icons.duckduckgo.com/ip3/together.ai.ico",
+      "free_tier": true,
+      "welcome_credits": 1.0,
+      "currency": "USD",
+      "openai_compatible": true,
+      "models_count": 200,
+      "featured_models": [
+        "DeepSeek R1",
+        "Llama 4",
+        "Qwen3 Coder",
+        "FLUX K.1"
+      ],
+      "rate_limits": "ادفع كما تستخدم بعد استهلاك الرصيد المجاني",
+      "signup_url": "https://api.together.ai/signin",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "رصيد ترحيبي 1$ للموديلات مفتوحة المصدر"
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://platform.deepseek.com",
+      "logo": "https://icons.duckduckgo.com/ip3/deepseek.com.ico",
+      "free_tier": false,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 4,
+      "featured_models": [
+        "DeepSeek-V3.2",
+        "DeepSeek-R1"
+      ],
+      "rate_limits": "أرخص API مدفوع لكل توكن",
+      "signup_url": "https://platform.deepseek.com/sign_in",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "مش مجاني لكنه الأرخص، وأحياناً فيه رصيد ترويجي"
+    },
+    {
+      "name": "Cohere",
+      "url": "https://dashboard.cohere.com",
+      "logo": "https://icons.duckduckgo.com/ip3/cohere.com.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": false,
+      "models_count": 10,
+      "featured_models": [
+        "Command A",
+        "Embed v4",
+        "Rerank 3.5"
+      ],
+      "rate_limits": "مفتاح تجريبي: 20 طلب/دقيقة و1000 نداء/شهر",
+      "signup_url": "https://dashboard.cohere.com/api-keys",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "الأقوى في RAG: تضمين + إعادة ترتيب بمفتاح مجاني واحد"
+    },
+    {
+      "name": "Zhipu GLM",
+      "url": "https://open.bigmodel.cn",
+      "logo": "https://icons.duckduckgo.com/ip3/bigmodel.cn.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 12,
+      "featured_models": [
+        "GLM-4.7",
+        "GLM-4.5-Air",
+        "GLM-4V"
+      ],
+      "rate_limits": "طبقة GLM-Flash مجانية + توكنات ترحيبية",
+      "signup_url": "https://open.bigmodel.cn/usercenter/signup",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "أوزان مفتوحة + طبقة flash مجانية على الـ API الرسمي"
+    },
+    {
+      "name": "Alibaba Model Studio",
+      "url": "https://www.alibabacloud.com/en/product/modelstudio",
+      "logo": "https://icons.duckduckgo.com/ip3/alibabacloud.com.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 30,
+      "featured_models": [
+        "Qwen3-Max",
+        "Qwen3-Coder",
+        "Qwen-VL"
+      ],
+      "rate_limits": "توكنات مجانية لكل موديل جديد عند الإطلاق",
+      "signup_url": "https://www.alibabacloud.com/en/product/modelstudio",
+      "last_updated": "2026-10-25",
+      "unlimited": false,
+      "special_note": "منصة Qwen الرسمية: توكنات مجانية محدودة لكل موديل"
+    }
+  ],
+  "news": [
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "description": "32 نقطة و43 تعليق على Hacker News",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 32
+    },
+    {
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "description": "66 نقطة و92 تعليق على Hacker News",
+      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 66
+    },
+    {
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "description": "75 نقطة و66 تعليق على Hacker News",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 75
+    },
+    {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "description": "99 نقطة و29 تعليق على Hacker News",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 99
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "description": "295 نقطة و102 تعليق على Hacker News",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 295
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "description": "460 نقطة و480 تعليق على Hacker News",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 460
+    },
+    {
+      "title": "Making My Blog Readable by AI Agents",
+      "description": "28 نقطة و5 تعليق على Hacker News",
+      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 28
+    },
+    {
+      "title": "No signs of AI payoff outside the tech sector",
+      "description": "588 نقطة و629 تعليق على Hacker News",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 588
+    },
+    {
+      "title": "Dream-1",
+      "description": "174 نقطة و77 تعليق على Hacker News",
+      "url": "https://dreamlabs.ai/research/dream-1/",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 174
+    },
+    {
+      "title": "Why is AI generated language so hard to understand?",
+      "description": "229 نقطة و186 تعليق على Hacker News",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 229
+    },
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "description": "96 نقطة و60 تعليق على Hacker News",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 96
+    },
+    {
+      "title": "ThinkRail from JetBrains",
+      "description": "51 نقطة و79 تعليق على Hacker News",
+      "url": "https://thinkrail.ai/",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 51
+    },
+    {
+      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+      "description": "369 نقطة و189 تعليق على Hacker News",
+      "url": "https://broccoli2shell.com/",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 369
+    },
+    {
+      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+      "description": "186 نقطة و97 تعليق على Hacker News",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "source": "Hacker News",
+      "date": "2026-10-23",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 186
+    },
+    {
+      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+      "description": "66 نقطة و58 تعليق على Hacker News",
+      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+      "source": "Hacker News",
+      "date": "2026-10-23",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 66
+    },
+    {
+      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+      "description": "120 نقطة و41 تعليق على Hacker News",
+      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "source": "Hacker News",
+      "date": "2026-10-23",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 120
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "description": "176 نقطة و167 تعليق على Hacker News",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "source": "Hacker News",
+      "date": "2026-10-23",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 176
+    },
+    {
+      "title": "Kimi K3.1 Pro",
+      "description": "60 نقطة و2 تعليق على Hacker News",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "Hacker News",
+      "date": "2026-10-23",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 60
+    },
+    {
+      "title": "AI Safety Is Mostly a Sex Cult in Berkeley, California",
+      "description": "26 نقطة و5 تعليق على Hacker News",
+      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
+      "source": "Hacker News",
+      "date": "2026-10-23",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 26
+    },
+    {
+      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+      "description": "70 نقطة و56 تعليق على Hacker News",
+      "url": "https://www.thisandthat.chat/enron/",
+      "source": "Hacker News",
+      "date": "2026-10-23",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 70
+    },
+    {
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "description": "142 نقطة و157 تعليق على Hacker News",
+      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "source": "Hacker News",
+      "date": "2026-10-23",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 142
+    },
+    {
+      "title": "AI compute is the new oil–and needs a new market",
+      "description": "53 نقطة و62 تعليق على Hacker News",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "source": "Hacker News",
+      "date": "2026-10-22",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 53
+    },
+    {
+      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+      "description": "91 نقطة و67 تعليق على Hacker News",
+      "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+      "source": "Hacker News",
+      "date": "2026-10-22",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 91
+    },
+    {
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "description": "237 نقطة و48 تعليق على Hacker News",
+      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "source": "Hacker News",
+      "date": "2026-10-22",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 237
+    }
+  ],
+  "deals": [
+    {
+      "title": "رصيد ترحيبي 1$ من Together AI",
+      "description": "الحسابات الجديدة تأخذ رصيد استدلال مجاني بقيمة دولار على 200+ موديل مفتوح.",
+      "platform": "Together AI",
+      "value": 1.0,
+      "currency": "USD",
+      "type": "welcome_credit",
+      "url": "https://api.together.ai/signin",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "رصيد استدلال شهري مجاني من Hugging Face",
+      "description": "رصيد صغير كل شهر لخدمات الاستدلال serverless.",
+      "platform": "Hugging Face",
+      "value": 0.1,
+      "currency": "USD",
+      "type": "recurring_credit",
+      "url": "https://huggingface.co/join",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "حصة يومية مجانية من Cerebras",
+      "description": "طلبات مجانية يومياً لموديلات Llama وQwen وGPT-OSS بسرعة خارقة.",
+      "platform": "Cerebras",
+      "value": null,
+      "currency": null,
+      "type": "free_quota",
+      "url": "https://cloud.cerebras.ai",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "GitHub Models مجاناً بحسابك",
+      "description": "جرّب موديلات GPT وLlama وMistral مجاناً باستخدام حساب GitHub.",
+      "platform": "GitHub Models",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://github.com/marketplace/models",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "Google AI Studio: خطة مجانية رسمية",
+      "description": "مفتاح API مجاني لموديلات Gemini بحدود استخدام يومية سخية.",
+      "platform": "Google",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://aistudio.google.com",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "zukijourney — API مجاني من قائمة GitHub",
+      "description": "The undisputed leader of the AI APIs, the largest & oldest of its kind still running. Offers other popular AI-related bots too.",
+      "platform": "zukijourney",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/DWU2egFnHh",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "ElectronHub — API مجاني من قائمة GitHub",
+      "description": "Developed by the ex-maintainer of the poe-api-wrapper. Very RP-friendly.",
+      "platform": "ElectronHub",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/4xg2TM3mNP",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "VoidAI — API مجاني من قائمة GitHub",
+      "description": "An odd api with historically some other ai-related projects. Now focused on just APIs it seems.",
+      "platform": "VoidAI",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/2nQwkvFFj6",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "NagaAI — API مجاني من قائمة GitHub",
+      "description": "Honorary successor to ChimeraGPT, the largest g4f API in history (16k users).",
+      "platform": "NagaAI",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/8ywEPhnJy4",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "HelixMind — API مجاني من قائمة GitHub",
+      "description": "Subscription-based service that 'just about' fits into the g4f principles definition with its free tier, with some oddity",
+      "platform": "HelixMind",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/466vKB47JH",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "ZanityAI — API مجاني من قائمة GitHub",
+      "description": "solid service that has been long-running and focused on providing a rp experience.",
+      "platform": "ZanityAI",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/8GgUak8KrK",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "Kimetsu — API مجاني من قائمة GitHub",
+      "description": "Place has some lore.",
+      "platform": "Kimetsu",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/WgRsRfH38E",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "NavyAPI — API مجاني من قائمة GitHub",
+      "description": "Small API with solid service - previously in controversy",
+      "platform": "NavyAPI",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/ezXZ8wpprc",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "MNN — API مجاني من قائمة GitHub",
+      "description": "Long-term standing small AI API with some useful models.",
+      "platform": "MNN",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/xKmsCCzUFW",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "WebraftAI — API مجاني من قائمة GitHub",
+      "description": "Recovered from 5-month downtime due to the owner's health issues. Some instability in current service.",
+      "platform": "WebraftAI",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/vbb2NQuWdR",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "VoltAI — API مجاني من قائمة GitHub",
+      "description": "API ran by a 'crackhead' (figuratively) who everyone thought went to prison.",
+      "platform": "VoltAI",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/Jb8KAVEw4b",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "hcap.ai — API مجاني من قائمة GitHub",
+      "description": "Small API with new developers to the space. Some creativity.",
+      "platform": "hcap.ai",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/NeRgKgdUXC",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "NexeonAI — API مجاني من قائمة GitHub",
+      "description": "Owner has been regularly DDOSing competition very openly and publicly. He is the local federal agent.",
+      "platform": "NexeonAI",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/5DfYgqX9DU",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "g4f.ai — API مجاني من قائمة GitHub",
+      "description": "Not very active, nor really moderated.",
+      "platform": "g4f.ai",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/nks3XTxdsN",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "FreeGPT4 — API مجاني من قائمة GitHub",
+      "description": "Ran by @lomusire",
+      "platform": "FreeGPT4",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/free-gpt-4-1106520284967735316",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "SpyrkAI — API مجاني من قائمة GitHub",
+      "description": "Currently a slightly inactive server, but some behind-the-scenes work continues.",
+      "platform": "SpyrkAI",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/A6mhxXMcWe",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "OpenShapes — API مجاني من قائمة GitHub",
+      "description": "Still a WIP - project wise. Selfhost option works!",
+      "platform": "OpenShapes",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/S4djBxRehM",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "serika.dev — API مجاني من قائمة GitHub",
+      "description": "Ran by a friend of the ZJ team.",
+      "platform": "serika.dev",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://discord.gg/dThZb9MNxa",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "Webscout — API مجاني من قائمة GitHub",
+      "description": "Easy install (pip/UV/Docker), highly extensible, well-documented, and developer-friendly. Contributions welcome!",
+      "platform": "Webscout",
+      "value": null,
+      "currency": null,
+      "type": "free_tier",
+      "url": "https://github.com/OEvortex/Webscout",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "Reddit now blocks all free API access besides RedReader",
+      "description": "عرض/توكنز مجانية أعلن عنها على Hacker News (13 نقطة)",
+      "platform": "Hacker News",
+      "value": null,
+      "currency": null,
+      "type": "community",
+      "url": "https://old.reddit.com/r/continuumreddit/comments/1u2monb/comment/oqyqn99/",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "description": "عرض/توكنز مجانية أعلن عنها على Hacker News (331 نقطة)",
+      "platform": "Hacker News",
+      "value": null,
+      "currency": null,
+      "type": "community",
+      "url": "https://github.com/rociiu/talorys",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
+      "description": "عرض/توكنز مجانية أعلن عنها على Hacker News (15 نقطة)",
+      "platform": "Hacker News",
+      "value": null,
+      "currency": null,
+      "type": "community",
+      "url": "https://github.com/PrestigePvP/Voicebox",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "Oracle is changing free tier limits. Update by the 15th to avoid charges",
+      "description": "عرض/توكنز مجانية أعلن عنها على Hacker News (36 نقطة)",
+      "platform": "Hacker News",
+      "value": null,
+      "currency": null,
+      "type": "community",
+      "url": "https://old.reddit.com/r/selfhosted/comments/1u4wqnj/psa_oracle_is_changing_free_tier_limits_update_by/",
+      "expiry": null,
+      "active": true
+    },
+    {
+      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "description": "عرض/توكنز مجانية أعلن عنها على Hacker News (409 نقطة)",
+      "platform": "Hacker News",
+      "value": null,
+      "currency": null,
+      "type": "community",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "expiry": null,
+      "active": true
+    }
+  ],
+  "tools": [
+    {
+      "name": "GitHub Copilot",
+      "url": "https://github.com/features/copilot",
+      "category": "extension",
+      "os": "VS Code / JetBrains / Web",
+      "free_text": "الخطة المجانية: 2,000 إكمال كود + 50 طلب شات شهرياً، ومجاني تماماً للطلبة والمدرسين",
+      "benefit": "مساعد كود رسمي مجاني — يكفي للاستخدام اليومي الخفيف"
+    },
+    {
+      "name": "Gemini CLI",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "category": "cli",
+      "os": "Windows / Mac / Linux",
+      "free_text": "مساعد جوجل في الترمينال — مجاني بحدود سخية مع حساب Google شخصي",
+      "benefit": "وكيل برمجة كامل من غير أي تكلفة — من أعلى القيم المجانية حالياً"
+    },
+    {
+      "name": "Qwen Code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "category": "cli",
+      "os": "Windows / Mac / Linux",
+      "free_text": "من Alibaba — 2,000 طلب مجاني يومياً بتسجيل الدخول بحسابك",
+      "benefit": "حصة يومية ضخمة تجرّب بيها موديلات Qwen في الشغل الحقيقي"
+    },
+    {
+      "name": "OpenCode",
+      "url": "https://opencode.ai",
+      "category": "cli",
+      "os": "Windows / Mac / Linux",
+      "free_text": "وكيل برمجة مفتوح المصدر — يتصل بأي مزود، ومعاه مزودين بيبدأوا مجاناً",
+      "benefit": "حرية كاملة: استخدمه مع أي مفتاح مجاني من منصات التطبيق"
+    },
+    {
+      "name": "ZCode",
+      "url": "https://z.ai",
+      "category": "cli",
+      "os": "Windows / Mac / Linux",
+      "free_text": "مساعد برمجة تفاعلي بجلسات ومهام وموديلات متقدمة — خطة مجانية متاحة",
+      "benefit": "جلسات عمل طويلة بذكاء تخطيطي عالي ضمن الخطة المجانية"
+    },
+    {
+      "name": "Codex CLI",
+      "url": "https://github.com/openai/codex",
+      "category": "cli",
+      "os": "Windows / Mac / Linux",
+      "free_text": "CLI رسمي من OpenAI — ضمن حدود خطة ChatGPT المجانية",
+      "benefit": "موديلات OpenAI في الترمينال من غير اشتراك"
+    },
+    {
+      "name": "Cursor",
+      "url": "https://cursor.com",
+      "category": "ide",
+      "os": "Windows / Mac / Linux",
+      "free_text": "محرر AI كامل — خطة مجانية بطلبات محدودة شهرياً",
+      "benefit": "أقرب تجربة لمحرر AI احترافي ببلاش"
+    },
+    {
+      "name": "Windsurf",
+      "url": "https://windsurf.com",
+      "category": "ide",
+      "os": "Windows / Mac / Linux",
+      "free_text": "محرر AI — كريدت مجاني للتجربة عند التسجيل",
+      "benefit": "جرّب وكيل Cascade قبل ما تدفع أي حاجة"
+    },
+    {
+      "name": "Trae",
+      "url": "https://www.trae.ai",
+      "category": "ide",
+      "os": "Windows / Mac",
+      "free_text": "من ByteDance — وصول مجاني لموديلات متقدمة بحدود يومية",
+      "benefit": "استخدم موديلات مدفوعة ببلاش داخل المحرر"
+    },
+    {
+      "name": "Cline",
+      "url": "https://cline.bot",
+      "category": "extension",
+      "os": "VS Code",
+      "free_text": "إضافة مفتوحة المصدر — مجانية 100% وتشتغل بمفتاح API من عندك",
+      "benefit": "قرّنها بمفتاح مجاني من منصاتنا وتطلع أقوى وكيل مجاني"
+    },
+    {
+      "name": "Continue.dev",
+      "url": "https://continue.dev",
+      "category": "extension",
+      "os": "VS Code / JetBrains",
+      "free_text": "إضافة مفتوحة المصدر للمحررات — مجانية بالكامل",
+      "benefit": "أوتوكومبليت وشات AI في محررك ببلاش للأبد"
+    },
+    {
+      "name": "Aider",
+      "url": "https://aider.chat",
+      "category": "cli",
+      "os": "Windows / Mac / Linux",
+      "free_text": "أداة ترمينال مفتوحة المصدر — مجانية وتشتغل بمفاتيحك",
+      "benefit": "برمجة بالمحادثة على repo كامل ببلاش"
+    }
+  ],
+  "free_models": [
+    {
+      "model": "Gemini 2.5 Pro / Flash",
+      "where": "Google AI Studio — مجاني بحدود يومية",
+      "url": "https://aistudio.google.com"
+    },
+    {
+      "model": "GPT-OSS-120B",
+      "where": "Cerebras و OpenRouter — مجاني بحصة يومية",
+      "url": "https://cloud.cerebras.ai"
+    },
+    {
+      "model": "Llama 4 Scout / Maverick",
+      "where": "Groq و Cerebras — مجاني",
+      "url": "https://console.groq.com"
+    },
+    {
+      "model": "Qwen3 235B / Coder",
+      "where": "Alibaba Model Studio — توكنات ترحيبية مجانية",
+      "url": "https://www.alibabacloud.com/en/product/modelstudio"
+    },
+    {
+      "model": "GLM-4.5-Air / Flash",
+      "where": "Zhipu BigModel — طبقة Flash مجانية",
+      "url": "https://open.bigmodel.cn"
+    },
+    {
+      "model": "GPT-5 mini / Phi-4 / Mistral",
+      "where": "GitHub Models — مجاني بحساب GitHub",
+      "url": "https://github.com/marketplace/models"
+    },
+    {
+      "model": "Command A",
+      "where": "Cohere — مفتاح تجريبي مجاني 1000 نداء/شهر",
+      "url": "https://dashboard.cohere.com"
+    }
+  ]
+}
