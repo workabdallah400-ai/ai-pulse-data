@@ -244,8 +244,21 @@
   ],
   "news": [
     {
+      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "description": "70 نقطة و81 تعليق على Hacker News",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "source": "Hacker News",
+      "date": "2026-10-26",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 70
+    },
+    {
       "title": "If AI displaces human workers, they will lose more than just pay",
-      "description": "28 نقطة و54 تعليق على Hacker News",
+      "description": "31 نقطة و67 تعليق على Hacker News",
       "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
       "source": "Hacker News",
       "date": "2026-10-26",
@@ -254,11 +267,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 28
+      "likes": 31
     },
     {
       "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-      "description": "47 نقطة و28 تعليق على Hacker News",
+      "description": "60 نقطة و37 تعليق على Hacker News",
       "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -267,11 +280,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 47
+      "likes": 60
     },
     {
       "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "description": "37 نقطة و18 تعليق على Hacker News",
+      "description": "61 نقطة و26 تعليق على Hacker News",
       "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -280,11 +293,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 37
+      "likes": 61
     },
     {
       "title": "A mathematician reads the AI future",
-      "description": "57 نقطة و77 تعليق على Hacker News",
+      "description": "65 نقطة و88 تعليق على Hacker News",
       "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -293,11 +306,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 57
+      "likes": 65
     },
     {
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "description": "211 نقطة و308 تعليق على Hacker News",
+      "description": "221 نقطة و320 تعليق على Hacker News",
       "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -306,11 +319,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 211
+      "likes": 221
     },
     {
       "title": "R/open source bans all solo projects and projects using LLMs",
-      "description": "85 نقطة و110 تعليق على Hacker News",
+      "description": "88 نقطة و111 تعليق على Hacker News",
       "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -319,11 +332,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 85
+      "likes": 88
     },
     {
       "title": "Imagine an AI future where being banned means you are now economically useless",
-      "description": "96 نقطة و78 تعليق على Hacker News",
+      "description": "98 نقطة و78 تعليق على Hacker News",
       "url": "https://twitter.com/boneGPT/status/2114035719853265264",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -332,11 +345,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 96
+      "likes": 98
     },
     {
       "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "description": "138 نقطة و75 تعليق على Hacker News",
+      "description": "141 نقطة و79 تعليق على Hacker News",
       "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -345,11 +358,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 138
+      "likes": 141
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "description": "355 نقطة و132 تعليق على Hacker News",
+      "description": "358 نقطة و137 تعليق على Hacker News",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -358,11 +371,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 355
+      "likes": 358
     },
     {
       "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "description": "56 نقطة و25 تعليق على Hacker News",
+      "description": "61 نقطة و25 تعليق على Hacker News",
       "url": "https://huggingface.co/destined/hurston-1",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -371,11 +384,24 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 56
+      "likes": 61
+    },
+    {
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "description": "53 نقطة و31 تعليق على Hacker News",
+      "url": "https://adrs.systems",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 53
     },
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "description": "515 نقطة و552 تعليق على Hacker News",
+      "description": "527 نقطة و562 تعليق على Hacker News",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -384,11 +410,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 515
+      "likes": 527
     },
     {
       "title": "Making My Blog Readable by AI Agents",
-      "description": "35 نقطة و9 تعليق على Hacker News",
+      "description": "36 نقطة و9 تعليق على Hacker News",
       "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -397,11 +423,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 35
+      "likes": 36
     },
     {
       "title": "No signs of AI payoff outside the tech sector",
-      "description": "616 نقطة و653 تعليق على Hacker News",
+      "description": "629 نقطة و661 تعليق على Hacker News",
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -410,11 +436,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 616
+      "likes": 629
     },
     {
       "title": "Dream-1",
-      "description": "179 نقطة و77 تعليق على Hacker News",
+      "description": "180 نقطة و77 تعليق على Hacker News",
       "url": "https://dreamlabs.ai/research/dream-1/",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -423,11 +449,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 179
+      "likes": 180
     },
     {
       "title": "Why is AI generated language so hard to understand?",
-      "description": "244 نقطة و198 تعليق على Hacker News",
+      "description": "247 نقطة و199 تعليق على Hacker News",
       "url": "https://arxiv.org/abs/2610.29162",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -436,7 +462,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 244
+      "likes": 247
     },
     {
       "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
@@ -453,7 +479,7 @@
     },
     {
       "title": "ThinkRail from JetBrains",
-      "description": "57 نقطة و82 تعليق على Hacker News",
+      "description": "57 نقطة و83 تعليق على Hacker News",
       "url": "https://thinkrail.ai/",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -466,7 +492,7 @@
     },
     {
       "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-      "description": "394 نقطة و211 تعليق على Hacker News",
+      "description": "397 نقطة و213 تعليق على Hacker News",
       "url": "https://broccoli2shell.com/",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -475,7 +501,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 394
+      "likes": 397
     },
     {
       "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
@@ -505,7 +531,7 @@
     },
     {
       "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-      "description": "120 نقطة و41 تعليق على Hacker News",
+      "description": "120 نقطة و42 تعليق على Hacker News",
       "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
       "source": "Hacker News",
       "date": "2026-10-23",
@@ -518,7 +544,7 @@
     },
     {
       "title": "Air Purifiers as White Noise Machines",
-      "description": "176 نقطة و169 تعليق على Hacker News",
+      "description": "176 نقطة و170 تعليق على Hacker News",
       "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
       "source": "Hacker News",
       "date": "2026-10-23",
@@ -541,19 +567,6 @@
       ],
       "downloads": null,
       "likes": 60
-    },
-    {
-      "title": "AI Safety Is Mostly a Sex Cult in Berkeley, California",
-      "description": "27 نقطة و5 تعليق على Hacker News",
-      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
-      "source": "Hacker News",
-      "date": "2026-10-23",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 27
     }
   ],
   "deals": [
