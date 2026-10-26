@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25",
+  "generated_at": "2026-10-26",
   "platforms": [
     {
       "name": "OpenRouter",
@@ -18,7 +18,7 @@
       ],
       "rate_limits": "الموديلات المجانية: 20 طلب/دقيقة، 50 طلب/يوم",
       "signup_url": "https://openrouter.ai",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "مجمّع: مفتاح واحد لمئات الموديلات مع بدل مجاني يومي"
     },
@@ -37,7 +37,7 @@
       ],
       "rate_limits": "مجاني: 10 طلبات/دقيقة و250 طلب/يوم (Pro)",
       "signup_url": "https://aistudio.google.com",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "خطة مجانية سخية بمفتاح API وسياق ضخم"
     },
@@ -57,7 +57,7 @@
       ],
       "rate_limits": "حوالي 30 طلب/دقيقة على الخطة المجانية",
       "signup_url": "https://console.groq.com",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "أسرع استدلال في السوق مع خطة مجانية للتجربة"
     },
@@ -78,7 +78,7 @@
       ],
       "rate_limits": "مجاني بحساب GitHub: 8 آلاف توكن إدخال / 4 آلاف إخراج",
       "signup_url": "https://github.com/marketplace/models",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "تجربة مجانية لكل الموديلات بـ PAT بتاع GitHub"
     },
@@ -98,7 +98,7 @@
       ],
       "rate_limits": "خطة تجريبية مجانية: طلب/ثانية و500 ألف توكن/دقيقة",
       "signup_url": "https://console.mistral.ai",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "الخطة المجانية تتطلب تأكيد رقم الهاتف"
     },
@@ -118,7 +118,7 @@
       ],
       "rate_limits": "حوالي 30 طلب/يوم مجاناً (حسب الموديل)",
       "signup_url": "https://cloud.cerebras.ai",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "سرعة خارقة (+2000 توكن/ثانية) مع حصة يومية مجانية"
     },
@@ -137,7 +137,7 @@
       ],
       "rate_limits": "رصيد شهري مجاني صغير للاستدلال",
       "signup_url": "https://huggingface.co/join",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "مفتاح واحد لعشرات المزودين برصيد شهري مجاني"
     },
@@ -158,7 +158,7 @@
       ],
       "rate_limits": "ادفع كما تستخدم بعد استهلاك الرصيد المجاني",
       "signup_url": "https://api.together.ai/signin",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "رصيد ترحيبي 1$ للموديلات مفتوحة المصدر"
     },
@@ -177,7 +177,7 @@
       ],
       "rate_limits": "أرخص API مدفوع لكل توكن",
       "signup_url": "https://platform.deepseek.com/sign_in",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "مش مجاني لكنه الأرخص، وأحياناً فيه رصيد ترويجي"
     },
@@ -197,7 +197,7 @@
       ],
       "rate_limits": "مفتاح تجريبي: 20 طلب/دقيقة و1000 نداء/شهر",
       "signup_url": "https://dashboard.cohere.com/api-keys",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "الأقوى في RAG: تضمين + إعادة ترتيب بمفتاح مجاني واحد"
     },
@@ -217,7 +217,7 @@
       ],
       "rate_limits": "طبقة GLM-Flash مجانية + توكنات ترحيبية",
       "signup_url": "https://open.bigmodel.cn/usercenter/signup",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "أوزان مفتوحة + طبقة flash مجانية على الـ API الرسمي"
     },
@@ -237,15 +237,41 @@
       ],
       "rate_limits": "توكنات مجانية لكل موديل جديد عند الإطلاق",
       "signup_url": "https://www.alibabacloud.com/en/product/modelstudio",
-      "last_updated": "2026-10-25",
+      "last_updated": "2026-10-26",
       "unlimited": false,
       "special_note": "منصة Qwen الرسمية: توكنات مجانية محدودة لكل موديل"
     }
   ],
   "news": [
     {
+      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "description": "26 نقطة و13 تعليق على Hacker News",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 26
+    },
+    {
+      "title": "A mathematician reads the AI future",
+      "description": "50 نقطة و73 تعليق على Hacker News",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 50
+    },
+    {
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "description": "32 نقطة و43 تعليق على Hacker News",
+      "description": "195 نقطة و278 تعليق على Hacker News",
       "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -254,11 +280,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 32
+      "likes": 195
     },
     {
       "title": "R/open source bans all solo projects and projects using LLMs",
-      "description": "66 نقطة و92 تعليق على Hacker News",
+      "description": "79 نقطة و106 تعليق على Hacker News",
       "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -267,11 +293,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 66
+      "likes": 79
     },
     {
       "title": "Imagine an AI future where being banned means you are now economically useless",
-      "description": "75 نقطة و66 تعليق على Hacker News",
+      "description": "94 نقطة و74 تعليق على Hacker News",
       "url": "https://twitter.com/boneGPT/status/2114035719853265264",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -280,11 +306,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 75
+      "likes": 94
     },
     {
       "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "description": "99 نقطة و29 تعليق على Hacker News",
+      "description": "130 نقطة و70 تعليق على Hacker News",
       "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -293,11 +319,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 99
+      "likes": 130
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "description": "295 نقطة و102 تعليق على Hacker News",
+      "description": "351 نقطة و127 تعليق على Hacker News",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -306,11 +332,24 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 295
+      "likes": 351
+    },
+    {
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "description": "44 نقطة و22 تعليق على Hacker News",
+      "url": "https://huggingface.co/destined/hurston-1",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 44
     },
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "description": "460 نقطة و480 تعليق على Hacker News",
+      "description": "503 نقطة و540 تعليق على Hacker News",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -319,11 +358,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 460
+      "likes": 503
     },
     {
       "title": "Making My Blog Readable by AI Agents",
-      "description": "28 نقطة و5 تعليق على Hacker News",
+      "description": "34 نقطة و9 تعليق على Hacker News",
       "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -332,11 +371,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 28
+      "likes": 34
     },
     {
       "title": "No signs of AI payoff outside the tech sector",
-      "description": "588 نقطة و629 تعليق على Hacker News",
+      "description": "610 نقطة و645 تعليق على Hacker News",
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -345,11 +384,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 588
+      "likes": 610
     },
     {
       "title": "Dream-1",
-      "description": "174 نقطة و77 تعليق على Hacker News",
+      "description": "179 نقطة و77 تعليق على Hacker News",
       "url": "https://dreamlabs.ai/research/dream-1/",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -358,11 +397,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 174
+      "likes": 179
     },
     {
       "title": "Why is AI generated language so hard to understand?",
-      "description": "229 نقطة و186 تعليق على Hacker News",
+      "description": "241 نقطة و197 تعليق على Hacker News",
       "url": "https://arxiv.org/abs/2610.29162",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -371,11 +410,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 229
+      "likes": 241
     },
     {
       "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "description": "96 نقطة و60 تعليق على Hacker News",
+      "description": "97 نقطة و61 تعليق على Hacker News",
       "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -384,11 +423,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 96
+      "likes": 97
     },
     {
       "title": "ThinkRail from JetBrains",
-      "description": "51 نقطة و79 تعليق على Hacker News",
+      "description": "56 نقطة و82 تعليق على Hacker News",
       "url": "https://thinkrail.ai/",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -397,11 +436,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 51
+      "likes": 56
     },
     {
       "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-      "description": "369 نقطة و189 تعليق على Hacker News",
+      "description": "393 نقطة و211 تعليق على Hacker News",
       "url": "https://broccoli2shell.com/",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -410,11 +449,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 369
+      "likes": 393
     },
     {
       "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-      "description": "186 نقطة و97 تعليق على Hacker News",
+      "description": "186 نقطة و95 تعليق على Hacker News",
       "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
       "source": "Hacker News",
       "date": "2026-10-23",
@@ -453,7 +492,7 @@
     },
     {
       "title": "Air Purifiers as White Noise Machines",
-      "description": "176 نقطة و167 تعليق على Hacker News",
+      "description": "176 نقطة و168 تعليق على Hacker News",
       "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
       "source": "Hacker News",
       "date": "2026-10-23",
@@ -479,7 +518,7 @@
     },
     {
       "title": "AI Safety Is Mostly a Sex Cult in Berkeley, California",
-      "description": "26 نقطة و5 تعليق على Hacker News",
+      "description": "27 نقطة و5 تعليق على Hacker News",
       "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
       "source": "Hacker News",
       "date": "2026-10-23",
@@ -488,7 +527,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 26
+      "likes": 27
     },
     {
       "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
@@ -515,45 +554,6 @@
       ],
       "downloads": null,
       "likes": 142
-    },
-    {
-      "title": "AI compute is the new oil–and needs a new market",
-      "description": "53 نقطة و62 تعليق على Hacker News",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "source": "Hacker News",
-      "date": "2026-10-22",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 53
-    },
-    {
-      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-      "description": "91 نقطة و67 تعليق على Hacker News",
-      "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
-      "source": "Hacker News",
-      "date": "2026-10-22",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 91
-    },
-    {
-      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-      "description": "237 نقطة و48 تعليق على Hacker News",
-      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-      "source": "Hacker News",
-      "date": "2026-10-22",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 237
     }
   ],
   "deals": [
