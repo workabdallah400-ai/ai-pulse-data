@@ -20,7 +20,8 @@
       "signup_url": "https://openrouter.ai",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "مجمّع: مفتاح واحد لمئات الموديلات مع بدل مجاني يومي"
+      "special_note": "مجمّع: مفتاح واحد لمئات الموديلات مع بدل مجاني يومي",
+      "renewal": "daily"
     },
     {
       "name": "Google AI Studio",
@@ -39,7 +40,8 @@
       "signup_url": "https://aistudio.google.com",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "خطة مجانية سخية بمفتاح API وسياق ضخم"
+      "special_note": "خطة مجانية سخية بمفتاح API وسياق ضخم",
+      "renewal": "daily"
     },
     {
       "name": "Groq",
@@ -59,7 +61,8 @@
       "signup_url": "https://console.groq.com",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "أسرع استدلال في السوق مع خطة مجانية للتجربة"
+      "special_note": "أسرع استدلال في السوق مع خطة مجانية للتجربة",
+      "renewal": "daily"
     },
     {
       "name": "GitHub Models",
@@ -80,7 +83,8 @@
       "signup_url": "https://github.com/marketplace/models",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "تجربة مجانية لكل الموديلات بـ PAT بتاع GitHub"
+      "special_note": "تجربة مجانية لكل الموديلات بـ PAT بتاع GitHub",
+      "renewal": "daily"
     },
     {
       "name": "Mistral",
@@ -100,7 +104,8 @@
       "signup_url": "https://console.mistral.ai",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "الخطة المجانية تتطلب تأكيد رقم الهاتف"
+      "special_note": "الخطة المجانية تتطلب تأكيد رقم الهاتف",
+      "renewal": "daily"
     },
     {
       "name": "Cerebras",
@@ -120,7 +125,8 @@
       "signup_url": "https://cloud.cerebras.ai",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "سرعة خارقة (+2000 توكن/ثانية) مع حصة يومية مجانية"
+      "special_note": "سرعة خارقة (+2000 توكن/ثانية) مع حصة يومية مجانية",
+      "renewal": "daily"
     },
     {
       "name": "Hugging Face",
@@ -139,7 +145,8 @@
       "signup_url": "https://huggingface.co/join",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "مفتاح واحد لعشرات المزودين برصيد شهري مجاني"
+      "special_note": "مفتاح واحد لعشرات المزودين برصيد شهري مجاني",
+      "renewal": "monthly"
     },
     {
       "name": "Together AI",
@@ -160,7 +167,8 @@
       "signup_url": "https://api.together.ai/signin",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "رصيد ترحيبي 1$ للموديلات مفتوحة المصدر"
+      "special_note": "رصيد ترحيبي 1$ للموديلات مفتوحة المصدر",
+      "renewal": "once"
     },
     {
       "name": "DeepSeek",
@@ -199,7 +207,8 @@
       "signup_url": "https://dashboard.cohere.com/api-keys",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "الأقوى في RAG: تضمين + إعادة ترتيب بمفتاح مجاني واحد"
+      "special_note": "الأقوى في RAG: تضمين + إعادة ترتيب بمفتاح مجاني واحد",
+      "renewal": "monthly"
     },
     {
       "name": "Zhipu GLM",
@@ -219,7 +228,8 @@
       "signup_url": "https://open.bigmodel.cn/usercenter/signup",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "أوزان مفتوحة + طبقة flash مجانية على الـ API الرسمي"
+      "special_note": "أوزان مفتوحة + طبقة flash مجانية على الـ API الرسمي",
+      "renewal": "unlimited"
     },
     {
       "name": "Alibaba Model Studio",
@@ -239,13 +249,101 @@
       "signup_url": "https://www.alibabacloud.com/en/product/modelstudio",
       "last_updated": "2026-10-26",
       "unlimited": false,
-      "special_note": "منصة Qwen الرسمية: توكنات مجانية محدودة لكل موديل"
+      "special_note": "منصة Qwen الرسمية: توكنات مجانية محدودة لكل موديل",
+      "renewal": "once"
+    },
+    {
+      "name": "SambaNova Cloud",
+      "url": "https://cloud.sambanova.ai",
+      "logo": "https://icons.duckduckgo.com/ip3/sambanova.ai.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 15,
+      "featured_models": [
+        "Llama 3.3 70B",
+        "Llama 3.1 405B",
+        "Qwen 2.5 72B"
+      ],
+      "rate_limits": "خطة مجانية كاملة بسرعة استدلال خارقة للأفراد والمطورين",
+      "signup_url": "https://cloud.sambanova.ai",
+      "last_updated": "2026-10-26",
+      "unlimited": false,
+      "special_note": "أسرع استدلال لموديلات Llama و Qwen الضخمة مع مفتاح API مجاني",
+      "renewal": "daily"
+    },
+    {
+      "name": "Cloudflare Workers AI",
+      "url": "https://ai.cloudflare.com",
+      "logo": "https://icons.duckduckgo.com/ip3/cloudflare.com.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 50,
+      "featured_models": [
+        "DeepSeek R1",
+        "Llama 3.3",
+        "Mistral 7B",
+        "Flux Schnell"
+      ],
+      "rate_limits": "10,000 وحدة عصبية (Neurons) مجانية يومياً لكل حساب",
+      "signup_url": "https://dash.cloudflare.com",
+      "last_updated": "2026-10-26",
+      "unlimited": false,
+      "special_note": "حصة يومية متجددة تدعم موديلات النصوص والصور والصوت",
+      "renewal": "daily"
+    },
+    {
+      "name": "Pollinations AI",
+      "url": "https://pollinations.ai",
+      "logo": "https://icons.duckduckgo.com/ip3/pollinations.ai.ico",
+      "free_tier": true,
+      "welcome_credits": 0.0,
+      "currency": null,
+      "openai_compatible": true,
+      "models_count": 20,
+      "featured_models": [
+        "GPT-4o-mini",
+        "Mistral",
+        "Qwen",
+        "FLUX"
+      ],
+      "rate_limits": "مجاني بالكامل بدون مفتاح وبدون قيود مشددة",
+      "signup_url": "https://pollinations.ai",
+      "last_updated": "2026-10-26",
+      "unlimited": true,
+      "special_note": "API مجاني 100% متوافق مع OpenAI بدون تسجيل أو مفتاح",
+      "renewal": "unlimited"
+    },
+    {
+      "name": "NVIDIA NIM",
+      "url": "https://build.nvidia.com",
+      "logo": "https://icons.duckduckgo.com/ip3/nvidia.com.ico",
+      "free_tier": true,
+      "welcome_credits": 1000.0,
+      "currency": "Credits",
+      "openai_compatible": true,
+      "models_count": 60,
+      "featured_models": [
+        "Nemotron 70B",
+        "Llama 3.3 70B",
+        "DeepSeek R1",
+        "Phi-4"
+      ],
+      "rate_limits": "1000 استدعاء/كريدت مجاني لكل حساب جديد",
+      "signup_url": "https://build.nvidia.com",
+      "last_updated": "2026-10-26",
+      "unlimited": false,
+      "special_note": "وصول فوري لأقوى موديلات نيفيديا وموديلات مفتوحة المصدر بمفتاح تجريبي",
+      "renewal": "once"
     }
   ],
   "news": [
     {
       "title": "Retrieval's bottleneck is moving from finding to selecting",
-      "description": "29 نقطة و0 تعليق على Hacker News",
+      "description": "31 نقطة و1 تعليق على Hacker News",
       "url": "https://www.kapa.ai/blog/retrieval-bottleneck",
       "source": "Hacker News",
       "date": "2026-10-26",
@@ -254,11 +352,24 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 29
+      "likes": 31
+    },
+    {
+      "title": "Nvidia discusses $2k-per-GPU annual fee for software",
+      "description": "26 نقطة و15 تعليق على Hacker News",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+      "source": "Hacker News",
+      "date": "2026-10-26",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 26
     },
     {
       "title": "Concerning behavior from a popular open-weight AI model",
-      "description": "119 نقطة و42 تعليق على Hacker News",
+      "description": "218 نقطة و81 تعليق على Hacker News",
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "source": "Hacker News",
       "date": "2026-10-26",
@@ -267,11 +378,24 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 119
+      "likes": 218
+    },
+    {
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "description": "54 نقطة و16 تعليق على Hacker News",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "source": "Hacker News",
+      "date": "2026-10-26",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 54
     },
     {
       "title": "Brown student maps the hidden global labor powering AI",
-      "description": "153 نقطة و130 تعليق على Hacker News",
+      "description": "169 نقطة و157 تعليق على Hacker News",
       "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
       "source": "Hacker News",
       "date": "2026-10-26",
@@ -280,11 +404,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 153
+      "likes": 169
     },
     {
       "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "description": "77 نقطة و99 تعليق على Hacker News",
+      "description": "78 نقطة و103 تعليق على Hacker News",
       "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
       "source": "Hacker News",
       "date": "2026-10-26",
@@ -293,11 +417,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 77
+      "likes": 78
     },
     {
       "title": "If AI displaces human workers, they will lose more than just pay",
-      "description": "37 نقطة و78 تعليق على Hacker News",
+      "description": "37 نقطة و82 تعليق على Hacker News",
       "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
       "source": "Hacker News",
       "date": "2026-10-26",
@@ -323,7 +447,7 @@
     },
     {
       "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-      "description": "69 نقطة و46 تعليق على Hacker News",
+      "description": "69 نقطة و48 تعليق على Hacker News",
       "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -336,7 +460,7 @@
     },
     {
       "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "description": "78 نقطة و45 تعليق على Hacker News",
+      "description": "81 نقطة و51 تعليق على Hacker News",
       "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -345,11 +469,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 78
+      "likes": 81
     },
     {
       "title": "A mathematician reads the AI future",
-      "description": "68 نقطة و115 تعليق على Hacker News",
+      "description": "68 نقطة و123 تعليق على Hacker News",
       "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -362,7 +486,7 @@
     },
     {
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "description": "229 نقطة و326 تعليق على Hacker News",
+      "description": "235 نقطة و326 تعليق على Hacker News",
       "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -371,7 +495,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 229
+      "likes": 235
     },
     {
       "title": "R/open source bans all solo projects and projects using LLMs",
@@ -414,7 +538,7 @@
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "description": "363 نقطة و140 تعليق على Hacker News",
+      "description": "364 نقطة و141 تعليق على Hacker News",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -423,11 +547,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 363
+      "likes": 364
     },
     {
       "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "description": "63 نقطة و25 تعليق على Hacker News",
+      "description": "64 نقطة و25 تعليق على Hacker News",
       "url": "https://huggingface.co/destined/hurston-1",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -436,11 +560,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 63
+      "likes": 64
     },
     {
       "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-      "description": "62 نقطة و47 تعليق على Hacker News",
+      "description": "64 نقطة و52 تعليق على Hacker News",
       "url": "https://adrs.systems",
       "source": "Hacker News",
       "date": "2026-10-25",
@@ -449,11 +573,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 62
+      "likes": 64
     },
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "description": "537 نقطة و575 تعليق على Hacker News",
+      "description": "539 نقطة و578 تعليق على Hacker News",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -462,7 +586,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 537
+      "likes": 539
     },
     {
       "title": "Making My Blog Readable by AI Agents",
@@ -479,7 +603,7 @@
     },
     {
       "title": "No signs of AI payoff outside the tech sector",
-      "description": "637 نقطة و665 تعليق على Hacker News",
+      "description": "637 نقطة و668 تعليق على Hacker News",
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -505,7 +629,7 @@
     },
     {
       "title": "Why is AI generated language so hard to understand?",
-      "description": "252 نقطة و200 تعليق على Hacker News",
+      "description": "253 نقطة و201 تعليق على Hacker News",
       "url": "https://arxiv.org/abs/2610.29162",
       "source": "Hacker News",
       "date": "2026-10-24",
@@ -514,7 +638,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 252
+      "likes": 253
     },
     {
       "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
@@ -541,32 +665,6 @@
       ],
       "downloads": null,
       "likes": 57
-    },
-    {
-      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-      "description": "399 نقطة و214 تعليق على Hacker News",
-      "url": "https://broccoli2shell.com/",
-      "source": "Hacker News",
-      "date": "2026-10-24",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 399
-    },
-    {
-      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-      "description": "186 نقطة و95 تعليق على Hacker News",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "source": "Hacker News",
-      "date": "2026-10-23",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 186
     }
   ],
   "deals": [
@@ -972,6 +1070,14 @@
       "benefit": "قرّنها بمفتاح مجاني من منصاتنا وتطلع أقوى وكيل مجاني"
     },
     {
+      "name": "Roo Code",
+      "url": "https://github.com/RooVetGit/Roo-Code",
+      "category": "extension",
+      "os": "VS Code",
+      "free_text": "وكيل ذكاء اصطناعي تفاعلي مفتوح المصدر — يدعم تشغيل أي مزود أو مفتاح مجاني",
+      "benefit": "يدعم أوضاع متعددة (Code, Architect, Ask) مع أي مزود تختاره"
+    },
+    {
       "name": "Continue.dev",
       "url": "https://continue.dev",
       "category": "extension",
@@ -986,43 +1092,332 @@
       "os": "Windows / Mac / Linux",
       "free_text": "أداة ترمينال مفتوحة المصدر — مجانية وتشتغل بمفاتيحك",
       "benefit": "برمجة بالمحادثة على repo كامل ببلاش"
+    },
+    {
+      "name": "Zed Editor",
+      "url": "https://zed.dev",
+      "category": "ide",
+      "os": "Windows / Mac / Linux",
+      "free_text": "محرر كود فائق السرعة مبني بـ Rust — خطة مجانية مع دعم مساعدات AI",
+      "benefit": "خفيف وسريع جداً مع إمكانية استخدام مفاتيحك المجانية"
+    },
+    {
+      "name": "Ollama",
+      "url": "https://ollama.com",
+      "category": "cli",
+      "os": "Windows / Mac / Linux",
+      "free_text": "تشغيل أشهر الموديلات محلياً على جهازك مجاناً وبدون حدود أو إنترنت",
+      "benefit": "شغل موديلات DeepSeek و Llama و Qwen على لابتوبك بدون أي توكنز"
+    },
+    {
+      "name": "Jan AI",
+      "url": "https://jan.ai",
+      "category": "ide",
+      "os": "Windows / Mac / Linux",
+      "free_text": "تطبيق ديسكتوب مفتوح المصدر بديل لـ ChatGPT يعمل محلياً أو بالـ API",
+      "benefit": "واجهة محادثة كاملة تدعم الموديلات المجانية أوفلاين وأونلاين"
+    },
+    {
+      "name": "no-cost-ai",
+      "url": "https://github.com/zebbern/no-cost-ai",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 2369 نجمة — 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "opencode2dsh",
+      "url": "https://github.com/FishBottle7/opencode2dsh",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 358 نجمة — DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "free-ai-models",
+      "url": "https://github.com/ClawLabsAI/free-ai-models",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 243 نجمة — Daily-updated list of free AI models (free LLM APIs), ranked by quality with live status. Plus one OpenAI-compatible endpoint that routes to the best ",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "FreeToken",
+      "url": "https://github.com/AIPMAndy/FreeToken",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 144 نجمة — 免费 AI API 额度大全：国内外大模型免费额度、聚合平台与开源项目｜Free LLM API credits and resources",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "freellmpool",
+      "url": "https://github.com/0xzr/freellmpool",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 136 نجمة — Free LLM gateway: 22 LLM providers, 178 enabled chat routes, 431 cataloged chat models; keyless start when available.",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "awesome-free-ai-coding",
+      "url": "https://github.com/mvalentsev/awesome-free-ai-coding",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 93 نجمة — 📡 Legal free LLM APIs & coding agents — self-updating, probe-verified twice a week. Free tiers, no-card trials, free models.",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "quantum-free-router",
+      "url": "https://github.com/spacepirate15/quantum-free-router",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 56 نجمة — Zero-cost LLM routing across free-tier model APIs with Bifrost, certification scripts, and agent-ready fallback chains",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "gemini-proxy",
+      "url": "https://github.com/KashifKhn/gemini-proxy",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 50 نجمة — Self-hosted OpenAI-compatible API proxy for Google Gemini — authenticated via OAuth 2.0 + PKCE, no paid API key required. Built with Bun + Hono + Type",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 103434 نجمة — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "public-api-lists",
+      "url": "https://github.com/public-api-lists/public-api-lists",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 16228 نجمة — A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "AgnesAI-Models",
+      "url": "https://github.com/AgnesAI-Labs/AgnesAI-Models",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 5234 نجمة — Official Agnes AI gateway and model catalog for OpenAI-compatible text, image, video, and agent workflows.",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "freeDictionaryAPI",
+      "url": "https://github.com/meetDeveloper/freeDictionaryAPI",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 3626 نجمة — There was no free Dictionary API on the web when I wanted one for my friend, so I created one.",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "openrelay",
+      "url": "https://github.com/romgX/openrelay",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 2318 نجمة — 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects. ",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "Chat2API",
+      "url": "https://github.com/xiaoY233/Chat2API",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 1716 نجمة — Chat2API enables zero-cost access to leading AI models by leveraging official web UIs. It supports providers such as DeepSeek, GLM, Kimi, MiniMax, Qwe",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
+    },
+    {
+      "name": "ai-coding-welfare",
+      "url": "https://github.com/panxunying/ai-coding-welfare",
+      "category": "community",
+      "os": "GitHub",
+      "free_text": "⭐ 1178 نجمة — AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
+      "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     }
   ],
   "free_models": [
     {
-      "model": "Gemini 2.5 Pro / Flash",
-      "where": "Google AI Studio — مجاني بحدود يومية",
-      "url": "https://aistudio.google.com"
+      "model": "DeepSeek R1 & V3",
+      "where": "OpenRouter (:free) و Groq و Cloudflare — أقوى تفكير وبرمجة مجاني",
+      "url": "https://openrouter.ai/deepseek/deepseek-r1:free",
+      "renewal": "daily"
     },
     {
-      "model": "GPT-OSS-120B",
-      "where": "Cerebras و OpenRouter — مجاني بحصة يومية",
-      "url": "https://cloud.cerebras.ai"
+      "model": "Gemini 2.0 Flash / Pro",
+      "where": "Google AI Studio — 15 طلب/دقيقة ومليون توكن مجاناً يومياً",
+      "url": "https://aistudio.google.com",
+      "renewal": "daily"
     },
     {
-      "model": "Llama 4 Scout / Maverick",
-      "where": "Groq و Cerebras — مجاني",
-      "url": "https://console.groq.com"
+      "model": "Llama 3.3 70B & 405B",
+      "where": "SambaNova و Groq و Cerebras — سرعة استدلال خارقة وتوكنز مجانية",
+      "url": "https://cloud.sambanova.ai",
+      "renewal": "daily"
     },
     {
-      "model": "Qwen3 235B / Coder",
-      "where": "Alibaba Model Studio — توكنات ترحيبية مجانية",
-      "url": "https://www.alibabacloud.com/en/product/modelstudio"
+      "model": "Qwen 2.5 Coder 32B",
+      "where": "Alibaba Model Studio و OpenRouter — موديل برمجة عالمي مجاناً",
+      "url": "https://openrouter.ai/qwen/qwen-2.5-coder-32b-instruct:free",
+      "renewal": "daily"
     },
     {
-      "model": "GLM-4.5-Air / Flash",
-      "where": "Zhipu BigModel — طبقة Flash مجانية",
-      "url": "https://open.bigmodel.cn"
+      "model": "Mistral Codestral & Large",
+      "where": "GitHub Models و Mistral Console — مجاني بحساب GitHub",
+      "url": "https://github.com/marketplace/models",
+      "renewal": "daily"
     },
     {
-      "model": "GPT-5 mini / Phi-4 / Mistral",
-      "where": "GitHub Models — مجاني بحساب GitHub",
-      "url": "https://github.com/marketplace/models"
+      "model": "NVIDIA Nemotron 70B",
+      "where": "NVIDIA NIM و OpenRouter — 1000 استدعاء تجريبي مجاني",
+      "url": "https://build.nvidia.com",
+      "renewal": "once"
     },
     {
-      "model": "Command A",
-      "where": "Cohere — مفتاح تجريبي مجاني 1000 نداء/شهر",
-      "url": "https://dashboard.cohere.com"
+      "model": "Flux.1 Schnell (توليد صور)",
+      "where": "Cloudflare Workers AI و HuggingFace — توليد صور مجاني عالي الدقة",
+      "url": "https://ai.cloudflare.com",
+      "renewal": "daily"
+    },
+    {
+      "model": "Cohere Command R+",
+      "where": "Cohere Dashboard — 1000 طلب مجاني شهرياً للبحث والـ RAG",
+      "url": "https://dashboard.cohere.com",
+      "renewal": "monthly"
+    },
+    {
+      "model": "GPT-4o mini & Phi-4",
+      "where": "GitHub Models — تجربة واستخدام مجاني بحساب GitHub",
+      "url": "https://github.com/marketplace/models",
+      "renewal": "daily"
+    },
+    {
+      "model": "GLM-4 Flash",
+      "where": "Zhipu BigModel — استدعاء مجاني بدون تكلفة للطبقة السريعة",
+      "url": "https://open.bigmodel.cn",
+      "renewal": "unlimited"
+    },
+    {
+      "model": "lyria-3-pro-preview",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 1024k توكن",
+      "url": "https://openrouter.ai/google/lyria-3-pro-preview",
+      "renewal": "daily"
+    },
+    {
+      "model": "lyria-3-clip-preview",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 1024k توكن",
+      "url": "https://openrouter.ai/google/lyria-3-clip-preview",
+      "renewal": "daily"
+    },
+    {
+      "model": "nemotron-3.5-super-vl",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 977k توكن",
+      "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
+      "renewal": "daily"
+    },
+    {
+      "model": "nemotron-3.5-lightning",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 977k توكن",
+      "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free",
+      "renewal": "daily"
+    },
+    {
+      "model": "nemotron-3-ultra-550b-a55b",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 977k توكن",
+      "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free",
+      "renewal": "daily"
+    },
+    {
+      "model": "gemma-4-26b-a4b-it",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 256k توكن",
+      "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
+      "renewal": "daily"
+    },
+    {
+      "model": "gemma-4-31b-it",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 256k توكن",
+      "url": "https://openrouter.ai/google/gemma-4-31b-it:free",
+      "renewal": "daily"
+    },
+    {
+      "model": "nemotron-3-super-120b-a12b",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 256k توكن",
+      "url": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free",
+      "renewal": "daily"
+    },
+    {
+      "model": "north-mini-code",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 250k توكن",
+      "url": "https://openrouter.ai/cohere/north-mini-code:free",
+      "renewal": "daily"
+    },
+    {
+      "model": "nemotron-3-nano-omni-30b-a3b-reasoning",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 250k توكن",
+      "url": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "renewal": "daily"
+    },
+    {
+      "model": "nemotron-3.5-content-safety",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 125k توكن",
+      "url": "https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free",
+      "renewal": "daily"
+    },
+    {
+      "model": "inkling-small",
+      "where": "OpenRouter (:free) — مجاني ببدل يومي · سياق 1024k توكن",
+      "url": "https://openrouter.ai/thinkingmachines/inkling-small:free",
+      "renewal": "daily"
+    },
+    {
+      "model": "DeepSeek-V4.1-Flash-1017 — ترند هالفترة",
+      "where": "Hugging Face (deepseek-ai) — 95,889 تحميل · 3175 لايك · مفتوح المصدر",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "renewal": "monthly"
+    },
+    {
+      "model": "flux-3-image-klein-comfy — ترند هالفترة",
+      "where": "Hugging Face (black-forest-labs) — 700,652 تحميل · 1691 لايك · مفتوح المصدر",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "renewal": "monthly"
+    },
+    {
+      "model": "Qwen3.8-27B — ترند هالفترة",
+      "where": "Hugging Face (Qwen) — 7,608,285 تحميل · 18457 لايك · مفتوح المصدر",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "renewal": "monthly"
+    },
+    {
+      "model": "Timestral-209M — ترند هالفترة",
+      "where": "Hugging Face (mistralai) — 10,971 تحميل · 398 لايك · مفتوح المصدر",
+      "url": "https://huggingface.co/mistralai/Timestral-209M",
+      "renewal": "monthly"
+    },
+    {
+      "model": "embeddinggemma-2 — ترند هالفترة",
+      "where": "Hugging Face (google) — 231,262 تحميل · 2947 لايك · مفتوح المصدر",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "renewal": "monthly"
+    },
+    {
+      "model": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB — ترند هالفترة",
+      "where": "Hugging Face (nvidia) — 35,608 تحميل · 155 لايك · مفتوح المصدر",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "renewal": "monthly"
+    },
+    {
+      "model": "Qwen3.8-Flash-Next — ترند هالفترة",
+      "where": "Hugging Face (Qwen) — 3,162,203 تحميل · 6502 لايك · مفتوح المصدر",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "renewal": "monthly"
+    },
+    {
+      "model": "flux-3-image-klein — ترند هالفترة",
+      "where": "Hugging Face (black-forest-labs) — 119,172 تحميل · 719 لايك · مفتوح المصدر",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+      "renewal": "monthly"
     }
   ]
 }
