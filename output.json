@@ -342,8 +342,112 @@
   ],
   "news": [
     {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "description": "37 نقطة و7 تعليق على Hacker News",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "source": "Hacker News",
+      "date": "2026-11-06",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 37
+    },
+    {
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "description": "60 نقطة و12 تعليق على Hacker News",
+      "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+      "source": "Hacker News",
+      "date": "2026-11-06",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 60
+    },
+    {
+      "title": "Perplexity launches AI agents for work",
+      "description": "52 نقطة و37 تعليق على Hacker News",
+      "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+      "source": "Hacker News",
+      "date": "2026-11-06",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 52
+    },
+    {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "description": "91 نقطة و229 تعليق على Hacker News",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "source": "Hacker News",
+      "date": "2026-11-06",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 91
+    },
+    {
+      "title": "FAA begins retiring decades old floppy disks from air traffic control",
+      "description": "89 نقطة و1 تعليق على Hacker News",
+      "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+      "source": "Hacker News",
+      "date": "2026-11-06",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 89
+    },
+    {
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "description": "114 نقطة و53 تعليق على Hacker News",
+      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "source": "Hacker News",
+      "date": "2026-11-06",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 114
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "description": "251 نقطة و197 تعليق على Hacker News",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Hacker News",
+      "date": "2026-11-06",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 251
+    },
+    {
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "description": "80 نقطة و32 تعليق على Hacker News",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "source": "Hacker News",
+      "date": "2026-11-06",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 80
+    },
+    {
       "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "description": "57 نقطة و50 تعليق على Hacker News",
+      "description": "59 نقطة و51 تعليق على Hacker News",
       "url": "https://obelisk.club/research/app-store-2026",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -352,11 +456,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 57
+      "likes": 59
     },
     {
       "title": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
-      "description": "34 نقطة و14 تعليق على Hacker News",
+      "description": "34 نقطة و17 تعليق على Hacker News",
       "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -369,7 +473,7 @@
     },
     {
       "title": "I struggle to believe that AI R&D is ingenious",
-      "description": "146 نقطة و140 تعليق على Hacker News",
+      "description": "161 نقطة و167 تعليق على Hacker News",
       "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -378,11 +482,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 146
+      "likes": 161
     },
     {
       "title": "How accurately did science fiction stories predict AI?",
-      "description": "33 نقطة و64 تعليق على Hacker News",
+      "description": "37 نقطة و74 تعليق على Hacker News",
       "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -391,11 +495,24 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 33
+      "likes": 37
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "description": "173 نقطة و146 تعليق على Hacker News",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "source": "Hacker News",
+      "date": "2026-11-06",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 173
     },
     {
       "title": "Nvidia Kubernetes Engine (NVKE)",
-      "description": "102 نقطة و23 تعليق على Hacker News",
+      "description": "118 نقطة و26 تعليق على Hacker News",
       "url": "https://github.com/dsx-ai-factory/nvke",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -404,11 +521,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 102
+      "likes": 118
     },
     {
       "title": "Closed AI models dominate the price-performance frontier",
-      "description": "76 نقطة و65 تعليق على Hacker News",
+      "description": "76 نقطة و71 تعليق على Hacker News",
       "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -421,7 +538,7 @@
     },
     {
       "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
-      "description": "45 نقطة و12 تعليق على Hacker News",
+      "description": "45 نقطة و15 تعليق على Hacker News",
       "url": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -434,7 +551,7 @@
     },
     {
       "title": "Inkling 2 Small",
-      "description": "235 نقطة و75 تعليق على Hacker News",
+      "description": "279 نقطة و89 تعليق على Hacker News",
       "url": "https://thinkingmachines.ai/news/inkling-2-small/",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -443,11 +560,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 235
+      "likes": 279
     },
     {
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "description": "417 نقطة و191 تعليق على Hacker News",
+      "description": "483 نقطة و218 تعليق على Hacker News",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "source": "Hacker News",
       "date": "2026-11-05",
@@ -456,7 +573,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 417
+      "likes": 483
     },
     {
       "title": "Tencent launches Hy4",
@@ -473,7 +590,7 @@
     },
     {
       "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-      "description": "38 نقطة و5 تعليق على Hacker News",
+      "description": "44 نقطة و6 تعليق على Hacker News",
       "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
       "source": "Hacker News",
       "date": "2026-11-05",
@@ -482,11 +599,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 38
+      "likes": 44
     },
     {
       "title": "The Hackintosh Reborn",
-      "description": "348 نقطة و195 تعليق على Hacker News",
+      "description": "393 نقطة و230 تعليق على Hacker News",
       "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
       "source": "Hacker News",
       "date": "2026-11-05",
@@ -495,11 +612,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 348
+      "likes": 393
     },
     {
       "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-      "description": "161 نقطة و190 تعليق على Hacker News",
+      "description": "162 نقطة و191 تعليق على Hacker News",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
       "source": "Hacker News",
       "date": "2026-11-05",
@@ -508,11 +625,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 161
+      "likes": 162
     },
     {
       "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "description": "107 نقطة و55 تعليق على Hacker News",
+      "description": "117 نقطة و58 تعليق على Hacker News",
       "url": "https://github.com/rivet-dev/rivet",
       "source": "Hacker News",
       "date": "2026-11-05",
@@ -521,11 +638,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 107
+      "likes": 117
     },
     {
       "title": "My psychophysics as a bilateral cochlear implant user",
-      "description": "182 نقطة و84 تعليق على Hacker News",
+      "description": "184 نقطة و90 تعليق على Hacker News",
       "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
       "source": "Hacker News",
       "date": "2026-11-05",
@@ -534,11 +651,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 182
+      "likes": 184
     },
     {
       "title": "The Stacks Project, Formalized in Lean",
-      "description": "93 نقطة و25 تعليق على Hacker News",
+      "description": "94 نقطة و26 تعليق على Hacker News",
       "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
       "source": "Hacker News",
       "date": "2026-11-05",
@@ -547,124 +664,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 93
-    },
-    {
-      "title": "American Voters Overwhelmingly Reject AI Data Centers",
-      "description": "61 نقطة و2 تعليق على Hacker News",
-      "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
-      "source": "Hacker News",
-      "date": "2026-11-05",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 61
-    },
-    {
-      "title": "You'll need nerves of steel to work with AI agents",
-      "description": "57 نقطة و82 تعليق على Hacker News",
-      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-      "source": "Hacker News",
-      "date": "2026-11-05",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 57
-    },
-    {
-      "title": "Don't Call It a Decision Model",
-      "description": "45 نقطة و10 تعليق على Hacker News",
-      "url": "https://typesafe.ai/blog/dont-call-it-a-decision-model",
-      "source": "Hacker News",
-      "date": "2026-11-04",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 45
-    },
-    {
-      "title": "Everything is an AI scam now",
-      "description": "151 نقطة و62 تعليق على Hacker News",
-      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-      "source": "Hacker News",
-      "date": "2026-11-04",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 151
-    },
-    {
-      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-      "description": "41 نقطة و10 تعليق على Hacker News",
-      "url": "https://github.com/gauge-sh/gauge-cli",
-      "source": "Hacker News",
-      "date": "2026-11-04",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 41
-    },
-    {
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "description": "170 نقطة و64 تعليق على Hacker News",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "source": "Hacker News",
-      "date": "2026-11-04",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 170
-    },
-    {
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "description": "255 نقطة و23 تعليق على Hacker News",
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
-      "source": "Hacker News",
-      "date": "2026-11-04",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 255
-    },
-    {
-      "title": "AI data centers comprehensively defeated at US midterm elections",
-      "description": "56 نقطة و2 تعليق على Hacker News",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
-      "source": "Hacker News",
-      "date": "2026-11-04",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 56
-    },
-    {
-      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "description": "106 نقطة و173 تعليق على Hacker News",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "Hacker News",
-      "date": "2026-11-04",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 106
+      "likes": 94
     }
   ],
   "deals": [
@@ -1122,7 +1122,7 @@
       "url": "https://github.com/zebbern/no-cost-ai",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 2396 نجمة — 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)",
+      "free_text": "⭐ 2397 نجمة — 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1138,7 +1138,7 @@
       "url": "https://github.com/ClawLabsAI/free-ai-models",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 256 نجمة — Daily-updated list of free AI models (free LLM APIs), ranked by quality with live status. Plus one OpenAI-compatible endpoint that routes to the best ",
+      "free_text": "⭐ 257 نجمة — Daily-updated list of free AI models (free LLM APIs), ranked by quality with live status. Plus one OpenAI-compatible endpoint that routes to the best ",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1162,7 +1162,7 @@
       "url": "https://github.com/mvalentsev/awesome-free-ai-coding",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 125 نجمة — 📡 Legal free LLM APIs & coding agents — self-updating, probe-verified twice a week. Free tiers, no-card trials, free models.",
+      "free_text": "⭐ 128 نجمة — 📡 Legal free LLM APIs & coding agents — self-updating, probe-verified twice a week. Free tiers, no-card trials, free models.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1186,7 +1186,7 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 109534 نجمة — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "free_text": "⭐ 109643 نجمة — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1226,7 +1226,7 @@
       "url": "https://github.com/panxunying/ai-coding-welfare",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 1280 نجمة — AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
+      "free_text": "⭐ 1283 نجمة — AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1234,7 +1234,7 @@
       "url": "https://github.com/hanzohanzhe/Grandet",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 1138 نجمة — Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ ",
+      "free_text": "⭐ 1143 نجمة — Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ ",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     }
   ],
@@ -1373,49 +1373,49 @@
     },
     {
       "model": "Kimi-K3.1-Pro — ترند هالفترة",
-      "where": "Hugging Face (moonshotai) — 18,432 تحميل · 1375 لايك · مفتوح المصدر",
+      "where": "Hugging Face (moonshotai) — 18,432 تحميل · 1450 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "renewal": "monthly"
     },
     {
       "model": "NVIDIA-Nemotron-3.5-Transcribe-30B-A4B — ترند هالفترة",
-      "where": "Hugging Face (nvidia) — 61,049 تحميل · 3067 لايك · مفتوح المصدر",
+      "where": "Hugging Face (nvidia) — 61,049 تحميل · 3072 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
       "renewal": "monthly"
     },
     {
       "model": "Qwen3.8-27B — ترند هالفترة",
-      "where": "Hugging Face (Qwen) — 7,845,288 تحميل · 19243 لايك · مفتوح المصدر",
+      "where": "Hugging Face (Qwen) — 7,845,288 تحميل · 19263 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "renewal": "monthly"
     },
     {
-      "model": "Mistral-Large-4-1T-A52B — ترند هالفترة",
-      "where": "Hugging Face (mistralai) — 10,530 تحميل · 1621 لايك · مفتوح المصدر",
-      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
-      "renewal": "monthly"
-    },
-    {
       "model": "flux-3-image-klein-comfy — ترند هالفترة",
-      "where": "Hugging Face (black-forest-labs) — 1,109,078 تحميل · 2602 لايك · مفتوح المصدر",
+      "where": "Hugging Face (black-forest-labs) — 1,109,078 تحميل · 2618 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
       "renewal": "monthly"
     },
     {
+      "model": "Mistral-Large-4-1T-A52B — ترند هالفترة",
+      "where": "Hugging Face (mistralai) — 10,530 تحميل · 1624 لايك · مفتوح المصدر",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "renewal": "monthly"
+    },
+    {
       "model": "DeepSeek-V4.1-Flash-1017 — ترند هالفترة",
-      "where": "Hugging Face (deepseek-ai) — 259,511 تحميل · 5344 لايك · مفتوح المصدر",
+      "where": "Hugging Face (deepseek-ai) — 259,511 تحميل · 5354 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "renewal": "monthly"
     },
     {
       "model": "Mage-VL-Cowork — ترند هالفترة",
-      "where": "Hugging Face (microsoft) — 2,826 تحميل · 193 لايك · مفتوح المصدر",
+      "where": "Hugging Face (microsoft) — 2,826 تحميل · 197 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/microsoft/Mage-VL-Cowork",
       "renewal": "monthly"
     },
     {
       "model": "DeepSeek-V4.1-Flash-1017-NVFP4 — ترند هالفترة",
-      "where": "Hugging Face (nvidia) — 7,147 تحميل · 182 لايك · مفتوح المصدر",
+      "where": "Hugging Face (nvidia) — 7,147 تحميل · 184 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
       "renewal": "monthly"
     }
