@@ -342,8 +342,21 @@
   ],
   "news": [
     {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "description": "228 نقطة و107 تعليق على Hacker News",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News",
+      "date": "2026-11-07",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 228
+    },
+    {
       "title": "The AI sell-off compared to well-known stock market crashes",
-      "description": "53 نقطة و42 تعليق على Hacker News",
+      "description": "72 نقطة و64 تعليق على Hacker News",
       "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
       "source": "Hacker News",
       "date": "2026-11-07",
@@ -352,11 +365,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 53
+      "likes": 72
     },
     {
       "title": "AI is dramatically accelerating AI research",
-      "description": "265 نقطة و209 تعليق على Hacker News",
+      "description": "333 نقطة و303 تعليق على Hacker News",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -365,11 +378,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 265
+      "likes": 333
     },
     {
       "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "description": "63 نقطة و12 تعليق على Hacker News",
+      "description": "86 نقطة و33 تعليق على Hacker News",
       "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -378,11 +391,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 63
+      "likes": 86
     },
     {
       "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-      "description": "26 نقطة و1 تعليق على Hacker News",
+      "description": "29 نقطة و1 تعليق على Hacker News",
       "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -391,11 +404,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 26
+      "likes": 29
     },
     {
       "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "description": "211 نقطة و104 تعليق على Hacker News",
+      "description": "258 نقطة و110 تعليق على Hacker News",
       "url": "https://pwn.ai/blog/firecracker-escape",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -404,11 +417,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 211
+      "likes": 258
     },
     {
       "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
-      "description": "49 نقطة و9 تعليق على Hacker News",
+      "description": "51 نقطة و10 تعليق على Hacker News",
       "url": "https://halfnarp.events.ccc.de",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -417,11 +430,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 49
+      "likes": 51
     },
     {
       "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-      "description": "89 نقطة و18 تعليق على Hacker News",
+      "description": "102 نقطة و18 تعليق على Hacker News",
       "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -430,11 +443,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 89
+      "likes": 102
     },
     {
       "title": "Perplexity launches AI agents for work",
-      "description": "60 نقطة و53 تعليق على Hacker News",
+      "description": "61 نقطة و54 تعليق على Hacker News",
       "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -443,11 +456,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 60
+      "likes": 61
     },
     {
       "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "description": "269 نقطة و536 تعليق على Hacker News",
+      "description": "287 نقطة و575 تعليق على Hacker News",
       "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -456,7 +469,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 269
+      "likes": 287
     },
     {
       "title": "FAA begins retiring decades old floppy disks from air traffic control",
@@ -473,7 +486,7 @@
     },
     {
       "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-      "description": "128 نقطة و58 تعليق على Hacker News",
+      "description": "130 نقطة و59 تعليق على Hacker News",
       "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -482,11 +495,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 128
+      "likes": 130
     },
     {
       "title": "Gemini Omni 1.2 Flash",
-      "description": "317 نقطة و227 تعليق على Hacker News",
+      "description": "348 نقطة و234 تعليق على Hacker News",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -495,11 +508,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 317
+      "likes": 348
     },
     {
       "title": "AI for scientific discovery: How researchers use Claude",
-      "description": "93 نقطة و38 تعليق على Hacker News",
+      "description": "95 نقطة و38 تعليق على Hacker News",
       "url": "https://www.anthropic.com/research/how-researchers-use-claude",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -508,11 +521,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 93
+      "likes": 95
     },
     {
       "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "description": "60 نقطة و52 تعليق على Hacker News",
+      "description": "60 نقطة و53 تعليق على Hacker News",
       "url": "https://obelisk.club/research/app-store-2026",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -538,7 +551,7 @@
     },
     {
       "title": "I struggle to believe that AI R&D is ingenious",
-      "description": "192 نقطة و196 تعليق على Hacker News",
+      "description": "204 نقطة و204 تعليق على Hacker News",
       "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -547,7 +560,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 192
+      "likes": 204
     },
     {
       "title": "How accurately did science fiction stories predict AI?",
@@ -564,7 +577,7 @@
     },
     {
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "description": "316 نقطة و257 تعليق على Hacker News",
+      "description": "356 نقطة و289 تعليق على Hacker News",
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -573,7 +586,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 316
+      "likes": 356
     },
     {
       "title": "Nvidia Kubernetes Engine (NVKE)",
@@ -616,7 +629,7 @@
     },
     {
       "title": "Inkling 2 Small",
-      "description": "285 نقطة و91 تعليق على Hacker News",
+      "description": "286 نقطة و91 تعليق على Hacker News",
       "url": "https://thinkingmachines.ai/news/inkling-2-small/",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -625,11 +638,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 285
+      "likes": 286
     },
     {
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "description": "505 نقطة و224 تعليق على Hacker News",
+      "description": "509 نقطة و224 تعليق على Hacker News",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "source": "Hacker News",
       "date": "2026-11-05",
@@ -638,7 +651,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 505
+      "likes": 509
     },
     {
       "title": "Tencent launches Hy4",
@@ -652,19 +665,6 @@
       ],
       "downloads": null,
       "likes": 95
-    },
-    {
-      "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-      "description": "46 نقطة و6 تعليق على Hacker News",
-      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
-      "source": "Hacker News",
-      "date": "2026-11-05",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 46
     }
   ],
   "deals": [
@@ -1122,7 +1122,7 @@
       "url": "https://github.com/zebbern/no-cost-ai",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 2400 نجمة — 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)",
+      "free_text": "⭐ 2401 نجمة — 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1138,7 +1138,7 @@
       "url": "https://github.com/ClawLabsAI/free-ai-models",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 258 نجمة — Daily-updated list of free AI models (free LLM APIs), ranked by quality with live status. Plus one OpenAI-compatible endpoint that routes to the best ",
+      "free_text": "⭐ 259 نجمة — Daily-updated list of free AI models (free LLM APIs), ranked by quality with live status. Plus one OpenAI-compatible endpoint that routes to the best ",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1146,7 +1146,7 @@
       "url": "https://github.com/AIPMAndy/FreeToken",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 157 نجمة — 免费 AI API 额度大全（定期复核）：Gemini、OpenRouter、Groq、DeepSeek、硅基流动等免费 Token 申请入口与限额｜Free LLM API keys & credits 2026",
+      "free_text": "⭐ 158 نجمة — 免费 AI API 额度大全（定期复核）：Gemini、OpenRouter、Groq、DeepSeek、硅基流动等免费 Token 申请入口与限额｜Free LLM API keys & credits 2026",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1186,7 +1186,7 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 109764 نجمة — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "free_text": "⭐ 109878 نجمة — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1194,7 +1194,7 @@
       "url": "https://github.com/public-api-lists/public-api-lists",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 16322 نجمة — A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
+      "free_text": "⭐ 16324 نجمة — A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1202,7 +1202,7 @@
       "url": "https://github.com/AgnesAI-Labs/AgnesAI-Models",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 5267 نجمة — Official Agnes AI gateway and model catalog for OpenAI-compatible text, image, video, and agent workflows.",
+      "free_text": "⭐ 5269 نجمة — Official Agnes AI gateway and model catalog for OpenAI-compatible text, image, video, and agent workflows.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1210,7 +1210,7 @@
       "url": "https://github.com/meetDeveloper/freeDictionaryAPI",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 3625 نجمة — There was no free Dictionary API on the web when I wanted one for my friend, so I created one.",
+      "free_text": "⭐ 3624 نجمة — There was no free Dictionary API on the web when I wanted one for my friend, so I created one.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1226,7 +1226,7 @@
       "url": "https://github.com/panxunying/ai-coding-welfare",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 1283 نجمة — AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
+      "free_text": "⭐ 1284 نجمة — AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1234,7 +1234,7 @@
       "url": "https://github.com/hanzohanzhe/Grandet",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 1156 نجمة — Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ ",
+      "free_text": "⭐ 1165 نجمة — Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ ",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     }
   ],
@@ -1373,49 +1373,49 @@
     },
     {
       "model": "Kimi-K3.1-Pro — ترند هالفترة",
-      "where": "Hugging Face (moonshotai) — 18,432 تحميل · 1550 لايك · مفتوح المصدر",
+      "where": "Hugging Face (moonshotai) — 22,571 تحميل · 1592 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "renewal": "monthly"
     },
     {
       "model": "Qwen3.8-27B — ترند هالفترة",
-      "where": "Hugging Face (Qwen) — 7,845,288 تحميل · 19289 لايك · مفتوح المصدر",
+      "where": "Hugging Face (Qwen) — 7,813,215 تحميل · 19314 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "renewal": "monthly"
     },
     {
       "model": "NVIDIA-Nemotron-3.5-Transcribe-30B-A4B — ترند هالفترة",
-      "where": "Hugging Face (nvidia) — 61,049 تحميل · 3081 لايك · مفتوح المصدر",
+      "where": "Hugging Face (nvidia) — 63,798 تحميل · 3087 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
       "renewal": "monthly"
     },
     {
       "model": "flux-3-image-klein-comfy — ترند هالفترة",
-      "where": "Hugging Face (black-forest-labs) — 1,109,078 تحميل · 2634 لايك · مفتوح المصدر",
+      "where": "Hugging Face (black-forest-labs) — 1,143,397 تحميل · 2653 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
       "renewal": "monthly"
     },
     {
       "model": "DeepSeek-V4.1-Flash-1017 — ترند هالفترة",
-      "where": "Hugging Face (deepseek-ai) — 259,511 تحميل · 5368 لايك · مفتوح المصدر",
+      "where": "Hugging Face (deepseek-ai) — 277,323 تحميل · 5380 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "renewal": "monthly"
     },
     {
       "model": "Mistral-Large-4-1T-A52B — ترند هالفترة",
-      "where": "Hugging Face (mistralai) — 10,530 تحميل · 1626 لايك · مفتوح المصدر",
+      "where": "Hugging Face (mistralai) — 11,206 تحميل · 1630 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
       "renewal": "monthly"
     },
     {
       "model": "Mage-VL-Cowork — ترند هالفترة",
-      "where": "Hugging Face (microsoft) — 2,826 تحميل · 205 لايك · مفتوح المصدر",
+      "where": "Hugging Face (microsoft) — 3,080 تحميل · 206 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/microsoft/Mage-VL-Cowork",
       "renewal": "monthly"
     },
     {
       "model": "NVIDIA-NemotronLabs-RE-USE — ترند هالفترة",
-      "where": "Hugging Face (nvidia) — 34,085 تحميل · 202 لايك · مفتوح المصدر",
+      "where": "Hugging Face (nvidia) — 35,085 تحميل · 207 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE",
       "renewal": "monthly"
     }
