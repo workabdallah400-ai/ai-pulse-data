@@ -342,8 +342,60 @@
   ],
   "news": [
     {
+      "title": "How I Fight AI Brain Fry",
+      "description": "48 نقطة و38 تعليق على Hacker News",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "source": "Hacker News",
+      "date": "2026-11-08",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 48
+    },
+    {
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "description": "62 نقطة و64 تعليق على Hacker News",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "source": "Hacker News",
+      "date": "2026-11-08",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 62
+    },
+    {
+      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "description": "32 نقطة و53 تعليق على Hacker News",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "source": "Hacker News",
+      "date": "2026-11-08",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 32
+    },
+    {
+      "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+      "description": "50 نقطة و39 تعليق على Hacker News",
+      "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+      "source": "Hacker News",
+      "date": "2026-11-08",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 50
+    },
+    {
       "title": "Consumer brain wave headsets threaten privacy",
-      "description": "102 نقطة و73 تعليق على Hacker News",
+      "description": "112 نقطة و87 تعليق على Hacker News",
       "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
       "source": "Hacker News",
       "date": "2026-11-08",
@@ -352,11 +404,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 102
+      "likes": 112
     },
     {
       "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "description": "36 نقطة و21 تعليق على Hacker News",
+      "description": "37 نقطة و22 تعليق على Hacker News",
       "url": "https://eyesrhythm.com/",
       "source": "Hacker News",
       "date": "2026-11-07",
@@ -365,7 +417,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 36
+      "likes": 37
     },
     {
       "title": "The End of AI Frontiers",
@@ -382,7 +434,7 @@
     },
     {
       "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "description": "353 نقطة و99 تعليق على Hacker News",
+      "description": "380 نقطة و101 تعليق على Hacker News",
       "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
       "source": "Hacker News",
       "date": "2026-11-07",
@@ -391,11 +443,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 353
+      "likes": 380
     },
     {
       "title": "Every Mac comes with an (undocumented) family member classifier",
-      "description": "791 نقطة و424 تعليق على Hacker News",
+      "description": "835 نقطة و438 تعليق على Hacker News",
       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
       "source": "Hacker News",
       "date": "2026-11-07",
@@ -404,11 +456,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 791
+      "likes": 835
     },
     {
       "title": "The AI sell-off compared to well-known stock market crashes",
-      "description": "96 نقطة و80 تعليق على Hacker News",
+      "description": "98 نقطة و82 تعليق على Hacker News",
       "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
       "source": "Hacker News",
       "date": "2026-11-07",
@@ -417,11 +469,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 96
+      "likes": 98
     },
     {
       "title": "AI is dramatically accelerating AI research",
-      "description": "371 نقطة و349 تعليق على Hacker News",
+      "description": "372 نقطة و350 تعليق على Hacker News",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -430,7 +482,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 371
+      "likes": 372
     },
     {
       "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
@@ -460,7 +512,7 @@
     },
     {
       "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "description": "285 نقطة و138 تعليق على Hacker News",
+      "description": "287 نقطة و138 تعليق على Hacker News",
       "url": "https://pwn.ai/blog/firecracker-escape",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -469,7 +521,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 285
+      "likes": 287
     },
     {
       "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
@@ -512,7 +564,7 @@
     },
     {
       "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "description": "318 نقطة و620 تعليق على Hacker News",
+      "description": "318 نقطة و622 تعليق على Hacker News",
       "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -564,7 +616,7 @@
     },
     {
       "title": "Gemini Omni 1.2 Flash",
-      "description": "365 نقطة و253 تعليق على Hacker News",
+      "description": "366 نقطة و253 تعليق على Hacker News",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -573,11 +625,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 365
+      "likes": 366
     },
     {
       "title": "AI for scientific discovery: How researchers use Claude",
-      "description": "102 نقطة و39 تعليق على Hacker News",
+      "description": "103 نقطة و39 تعليق على Hacker News",
       "url": "https://www.anthropic.com/research/how-researchers-use-claude",
       "source": "Hacker News",
       "date": "2026-11-06",
@@ -586,7 +638,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 102
+      "likes": 103
     },
     {
       "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
@@ -600,58 +652,6 @@
       ],
       "downloads": null,
       "likes": 60
-    },
-    {
-      "title": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
-      "description": "36 نقطة و17 تعليق على Hacker News",
-      "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-      "source": "Hacker News",
-      "date": "2026-11-06",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 36
-    },
-    {
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "description": "220 نقطة و219 تعليق على Hacker News",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "source": "Hacker News",
-      "date": "2026-11-06",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 220
-    },
-    {
-      "title": "How accurately did science fiction stories predict AI?",
-      "description": "39 نقطة و87 تعليق على Hacker News",
-      "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
-      "source": "Hacker News",
-      "date": "2026-11-06",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 39
-    },
-    {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "description": "403 نقطة و328 تعليق على Hacker News",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "source": "Hacker News",
-      "date": "2026-11-06",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 403
     }
   ],
   "deals": [
@@ -1117,7 +1117,7 @@
       "url": "https://github.com/FishBottle7/opencode2dsh",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 387 نجمة — DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key",
+      "free_text": "⭐ 386 نجمة — DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1133,7 +1133,7 @@
       "url": "https://github.com/AIPMAndy/FreeToken",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 159 نجمة — 免费 AI API 额度大全（定期复核）：Gemini、OpenRouter、Groq、DeepSeek、硅基流动等免费 Token 申请入口与限额｜Free LLM API keys & credits 2026",
+      "free_text": "⭐ 160 نجمة — 免费 AI API 额度大全（定期复核）：Gemini、OpenRouter、Groq、DeepSeek、硅基流动等免费 Token 申请入口与限额｜Free LLM API keys & credits 2026",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1173,7 +1173,7 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 110223 نجمة — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "free_text": "⭐ 110273 نجمة — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1181,7 +1181,7 @@
       "url": "https://github.com/public-api-lists/public-api-lists",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 16340 نجمة — A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
+      "free_text": "⭐ 16341 نجمة — A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1221,7 +1221,7 @@
       "url": "https://github.com/hanzohanzhe/Grandet",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 1195 نجمة — Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ ",
+      "free_text": "⭐ 1197 نجمة — Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ ",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     }
   ],
@@ -1360,13 +1360,13 @@
     },
     {
       "model": "Kimi-K3.1-Pro — ترند هالفترة",
-      "where": "Hugging Face (moonshotai) — 25,569 تحميل · 1706 لايك · مفتوح المصدر",
+      "where": "Hugging Face (moonshotai) — 25,569 تحميل · 1718 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "renewal": "monthly"
     },
     {
       "model": "Qwen3.8-27B — ترند هالفترة",
-      "where": "Hugging Face (Qwen) — 7,668,187 تحميل · 19382 لايك · مفتوح المصدر",
+      "where": "Hugging Face (Qwen) — 7,668,187 تحميل · 19403 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "renewal": "monthly"
     },
@@ -1378,7 +1378,7 @@
     },
     {
       "model": "flux-3-image-klein-comfy — ترند هالفترة",
-      "where": "Hugging Face (black-forest-labs) — 1,167,959 تحميل · 2731 لايك · مفتوح المصدر",
+      "where": "Hugging Face (black-forest-labs) — 1,167,959 تحميل · 2746 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
       "renewal": "monthly"
     },
@@ -1390,19 +1390,19 @@
     },
     {
       "model": "Mistral-Large-4-1T-A52B — ترند هالفترة",
-      "where": "Hugging Face (mistralai) — 11,628 تحميل · 1637 لايك · مفتوح المصدر",
+      "where": "Hugging Face (mistralai) — 11,628 تحميل · 1638 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
       "renewal": "monthly"
     },
     {
       "model": "Qwen3.8-Flash-Next — ترند هالفترة",
-      "where": "Hugging Face (Qwen) — 3,533,066 تحميل · 6857 لايك · مفتوح المصدر",
+      "where": "Hugging Face (Qwen) — 3,533,066 تحميل · 6859 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
       "renewal": "monthly"
     },
     {
       "model": "embeddinggemma-2 — ترند هالفترة",
-      "where": "Hugging Face (google) — 507,451 تحميل · 3197 لايك · مفتوح المصدر",
+      "where": "Hugging Face (google) — 507,451 تحميل · 3199 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/google/embeddinggemma-2",
       "renewal": "monthly"
     }
