@@ -342,8 +342,34 @@
   ],
   "news": [
     {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "description": "82 نقطة و88 تعليق على Hacker News",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Hacker News",
+      "date": "2026-11-26",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 82
+    },
+    {
+      "title": "Moat: Your OpenRouter Replacement",
+      "description": "125 نقطة و85 تعليق على Hacker News",
+      "url": "https://commandcode.ai/moat",
+      "source": "Hacker News",
+      "date": "2026-11-26",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 125
+    },
+    {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "description": "250 نقطة و201 تعليق على Hacker News",
+      "description": "466 نقطة و388 تعليق على Hacker News",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "source": "Hacker News",
       "date": "2026-11-25",
@@ -352,12 +378,25 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 250
+      "likes": 466
     },
     {
       "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
-      "description": "53 نقطة و63 تعليق على Hacker News",
+      "description": "56 نقطة و67 تعليق على Hacker News",
       "url": "https://danprice.ai/blog/opus-symphony",
+      "source": "Hacker News",
+      "date": "2026-11-25",
+      "tags": [
+        "AI",
+        "مجتمع"
+      ],
+      "downloads": null,
+      "likes": 56
+    },
+    {
+      "title": "New York bans AI toys, including those using internet to talk to children",
+      "description": "53 نقطة و13 تعليق على Hacker News",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
       "source": "Hacker News",
       "date": "2026-11-25",
       "tags": [
@@ -368,21 +407,8 @@
       "likes": 53
     },
     {
-      "title": "New York bans AI toys, including those using internet to talk to children",
-      "description": "48 نقطة و9 تعليق على Hacker News",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-      "source": "Hacker News",
-      "date": "2026-11-25",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 48
-    },
-    {
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "description": "219 نقطة و82 تعليق على Hacker News",
+      "description": "221 نقطة و83 تعليق على Hacker News",
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
       "source": "Hacker News",
       "date": "2026-11-25",
@@ -391,11 +417,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 219
+      "likes": 221
     },
     {
       "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
-      "description": "27 نقطة و18 تعليق على Hacker News",
+      "description": "29 نقطة و20 تعليق على Hacker News",
       "url": "https://carry.md/",
       "source": "Hacker News",
       "date": "2026-11-25",
@@ -404,11 +430,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 27
+      "likes": 29
     },
     {
       "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "description": "102 نقطة و52 تعليق على Hacker News",
+      "description": "104 نقطة و53 تعليق على Hacker News",
       "url": "https://www.proofatlas.ai/open-problems/",
       "source": "Hacker News",
       "date": "2026-11-25",
@@ -417,7 +443,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 102
+      "likes": 104
     },
     {
       "title": "New York Ban AI Toys for 5 Years",
@@ -434,7 +460,7 @@
     },
     {
       "title": "Working with AI",
-      "description": "88 نقطة و76 تعليق على Hacker News",
+      "description": "89 نقطة و76 تعليق على Hacker News",
       "url": "https://www.anthropic.com/research/working-with-ai",
       "source": "Hacker News",
       "date": "2026-11-24",
@@ -443,7 +469,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 88
+      "likes": 89
     },
     {
       "title": "Compiling web applications into verified operations for AI agents",
@@ -473,7 +499,7 @@
     },
     {
       "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
-      "description": "101 نقطة و21 تعليق على Hacker News",
+      "description": "105 نقطة و21 تعليق على Hacker News",
       "url": "https://masondata.ai/",
       "source": "Hacker News",
       "date": "2026-11-24",
@@ -482,7 +508,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 101
+      "likes": 105
     },
     {
       "title": "Turning raw air traffic control recordings into lo-fi beats",
@@ -499,7 +525,7 @@
     },
     {
       "title": "Quit Internet Videos Before AI Perfects Them",
-      "description": "37 نقطة و18 تعليق على Hacker News",
+      "description": "38 نقطة و18 تعليق على Hacker News",
       "url": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects",
       "source": "Hacker News",
       "date": "2026-11-24",
@@ -508,11 +534,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 37
+      "likes": 38
     },
     {
       "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-      "description": "81 نقطة و40 تعليق على Hacker News",
+      "description": "82 نقطة و40 تعليق على Hacker News",
       "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
       "source": "Hacker News",
       "date": "2026-11-24",
@@ -521,11 +547,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 81
+      "likes": 82
     },
     {
       "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
-      "description": "41 نقطة و25 تعليق على Hacker News",
+      "description": "48 نقطة و26 تعليق على Hacker News",
       "url": "https://www.rchive.computer/",
       "source": "Hacker News",
       "date": "2026-11-24",
@@ -534,11 +560,11 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 41
+      "likes": 48
     },
     {
       "title": "Declare is a UI language for you and your AI",
-      "description": "117 نقطة و95 تعليق على Hacker News",
+      "description": "119 نقطة و96 تعليق على Hacker News",
       "url": "https://davidtemkin.github.io/declarelang/",
       "source": "Hacker News",
       "date": "2026-11-24",
@@ -547,7 +573,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 117
+      "likes": 119
     },
     {
       "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
@@ -590,7 +616,7 @@
     },
     {
       "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-      "description": "89 نقطة و10 تعليق على Hacker News",
+      "description": "121 نقطة و10 تعليق على Hacker News",
       "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
       "source": "Hacker News",
       "date": "2026-11-23",
@@ -599,7 +625,7 @@
         "مجتمع"
       ],
       "downloads": null,
-      "likes": 89
+      "likes": 121
     },
     {
       "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
@@ -639,32 +665,6 @@
       ],
       "downloads": null,
       "likes": 49
-    },
-    {
-      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "description": "1179 نقطة و386 تعليق على Hacker News",
-      "url": "https://z.ai/blog/glm-5.4",
-      "source": "Hacker News",
-      "date": "2026-11-23",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 1179
-    },
-    {
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "description": "71 نقطة و17 تعليق على Hacker News",
-      "url": "https://0rwx.com/",
-      "source": "Hacker News",
-      "date": "2026-11-22",
-      "tags": [
-        "AI",
-        "مجتمع"
-      ],
-      "downloads": null,
-      "likes": 71
     }
   ],
   "deals": [
@@ -1111,7 +1111,7 @@
       "url": "https://github.com/zebbern/no-cost-ai",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 2453 نجمة — 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)",
+      "free_text": "⭐ 2455 نجمة — 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1119,7 +1119,7 @@
       "url": "https://github.com/nejib1/Free-LLM",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 1120 نجمة — 78 free LLM API providers & 450+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint ",
+      "free_text": "⭐ 1132 نجمة — 78 free LLM API providers & 450+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint ",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1135,7 +1135,7 @@
       "url": "https://github.com/ClawLabsAI/free-ai-models",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 290 نجمة — Daily-updated list of free AI models (free LLM APIs), ranked by quality with live status. Plus one OpenAI-compatible endpoint that routes to the best ",
+      "free_text": "⭐ 293 نجمة — Daily-updated list of free AI models (free LLM APIs), ranked by quality with live status. Plus one OpenAI-compatible endpoint that routes to the best ",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1143,7 +1143,7 @@
       "url": "https://github.com/mvalentsev/awesome-free-ai-coding",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 275 نجمة — 📡 Legal free LLM APIs & coding agents — self-updating, probe-verified twice a week. Free tiers, no-card trials, free models.",
+      "free_text": "⭐ 276 نجمة — 📡 Legal free LLM APIs & coding agents — self-updating, probe-verified twice a week. Free tiers, no-card trials, free models.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1151,7 +1151,7 @@
       "url": "https://github.com/AIPMAndy/FreeToken",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 194 نجمة — 免费 AI API 额度大全（定期复核）：Gemini、OpenRouter、Groq、DeepSeek、硅基流动等免费 Token 申请入口与限额｜Free LLM API keys & credits 2026 ｜ 微信 AIPMAndy · 官网 https://metaver.vip/",
+      "free_text": "⭐ 197 نجمة — 免费 AI API 额度大全（定期复核）：Gemini、OpenRouter、Groq、DeepSeek、硅基流动等免费 Token 申请入口与限额｜Free LLM API keys & credits 2026 ｜ 微信 AIPMAndy · 官网 https://metaver.vip/",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1167,7 +1167,7 @@
       "url": "https://github.com/pacocartones/free-llm-api-hub",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 130 نجمة — A continuously-verified dataset of free-tier & trial-credit LLM APIs for developers. Every entry dated, sourced to the provider's own docs, and machin",
+      "free_text": "⭐ 131 نجمة — A continuously-verified dataset of free-tier & trial-credit LLM APIs for developers. Every entry dated, sourced to the provider's own docs, and machin",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1175,7 +1175,7 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 114769 نجمة — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "free_text": "⭐ 114923 نجمة — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1183,7 +1183,7 @@
       "url": "https://github.com/public-api-lists/public-api-lists",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 16474 نجمة — A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
+      "free_text": "⭐ 16476 نجمة — A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1191,7 +1191,7 @@
       "url": "https://github.com/AgnesAI-Labs/AgnesAI-Models",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 5310 نجمة — Official Agnes AI gateway and model catalog for OpenAI-compatible text, image, video, and agent workflows.",
+      "free_text": "⭐ 5316 نجمة — Official Agnes AI gateway and model catalog for OpenAI-compatible text, image, video, and agent workflows.",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1207,7 +1207,7 @@
       "url": "https://github.com/xiaoY233/Chat2API",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 1751 نجمة — Chat2API enables zero-cost access to leading AI models by leveraging official web UIs. It supports providers such as DeepSeek, GLM, Kimi, MiniMax, Qwe",
+      "free_text": "⭐ 1752 نجمة — Chat2API enables zero-cost access to leading AI models by leveraging official web UIs. It supports providers such as DeepSeek, GLM, Kimi, MiniMax, Qwe",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1215,7 +1215,7 @@
       "url": "https://github.com/hanzohanzhe/Grandet",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 1535 نجمة — Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ ",
+      "free_text": "⭐ 1545 نجمة — Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ ",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     },
     {
@@ -1223,7 +1223,7 @@
       "url": "https://github.com/panxunying/ai-coding-welfare",
       "category": "community",
       "os": "GitHub",
-      "free_text": "⭐ 1411 نجمة — AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
+      "free_text": "⭐ 1415 نجمة — AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
       "benefit": "مكتشف جديد من المجتمع — القايمة بتتحدث أوتوماتيك"
     }
   ],
@@ -1362,44 +1362,32 @@
     },
     {
       "model": "Nemotron-Labs-Image-30B-A3B — ترند هالفترة",
-      "where": "Hugging Face (nvidia) — 218 تحميل · 176 لايك · مفتوح المصدر",
+      "where": "Hugging Face (nvidia) — 218 تحميل · 222 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
       "renewal": "monthly"
     },
     {
       "model": "Qwen3.8-27B — ترند هالفترة",
-      "where": "Hugging Face (Qwen) — 6,047,011 تحميل · 21802 لايك · مفتوح المصدر",
+      "where": "Hugging Face (Qwen) — 6,047,011 تحميل · 21825 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "renewal": "monthly"
     },
     {
       "model": "flux-3-image-klein-comfy — ترند هالفترة",
-      "where": "Hugging Face (black-forest-labs) — 860,476 تحميل · 4624 لايك · مفتوح المصدر",
+      "where": "Hugging Face (black-forest-labs) — 860,476 تحميل · 4642 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
       "renewal": "monthly"
     },
     {
       "model": "DeepSeek-V4.1-Flash-1017 — ترند هالفترة",
-      "where": "Hugging Face (deepseek-ai) — 550,396 تحميل · 6703 لايك · مفتوح المصدر",
+      "where": "Hugging Face (deepseek-ai) — 550,396 تحميل · 6717 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "renewal": "monthly"
     },
     {
       "model": "Aion-1.0-Instruct-2.3B — ترند هالفترة",
-      "where": "Hugging Face (microsoft) — 6,005 تحميل · 351 لايك · مفتوح المصدر",
+      "where": "Hugging Face (microsoft) — 6,005 تحميل · 356 لايك · مفتوح المصدر",
       "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
-      "renewal": "monthly"
-    },
-    {
-      "model": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB — ترند هالفترة",
-      "where": "Hugging Face (nvidia) — 196,058 تحميل · 1547 لايك · مفتوح المصدر",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "renewal": "monthly"
-    },
-    {
-      "model": "Meta-Llama-3-8B-Instruct — ترند هالفترة",
-      "where": "Hugging Face (meta-llama) — 454,001 تحميل · 6686 لايك · مفتوح المصدر",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "renewal": "monthly"
     }
   ]
